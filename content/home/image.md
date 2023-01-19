@@ -11,7 +11,7 @@ active: false
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: ""
     image_darken: 0
     image_parallax: false
     image_position: center
