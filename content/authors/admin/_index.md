@@ -1,6 +1,7 @@
 ---
 title: Tobias Ackels
 role: Principal Investigator
+avatar_filename: null
 bio: My research interests include...
 interests:
   - Artificial Intelligence
