@@ -3,7 +3,7 @@ widget: hero
 widget_id: Ackels lab
 headless: true
 weight: 10
-title: Ackels lab
+title: ""
 subtitle: Sensory neuroscience of behavior
 active: true
 design:
