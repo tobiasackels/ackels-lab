@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: home
+    url: /#home
     weight: 10
   - name: Research
     url: project
