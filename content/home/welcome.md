@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Ackels lab
+widget_id: .
 headless: true
 weight: 10
 title: ""
