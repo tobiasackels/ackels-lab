@@ -13,8 +13,7 @@ header:
   caption: ""
   image: ""
   
-design:
-  columns: '2' 
+view: list 
 ---
 
 **Fast odour dynamics are encoded in the olfactory system and guide behaviour**  
