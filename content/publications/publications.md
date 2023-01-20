@@ -1,14 +1,3 @@
-title: My page
-type: landing
-
-sections:
-  - block: markdown
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
----
+**Fast odour dynamics are encoded in the olfactory system and guide behaviour**  
+Tobias Ackels1,2,3, Andrew Erskine1,2,3, Debanjan Dasgupta1,2,3, Alina Cristina Marin1, Tom P. A. Warner1, Sina Tootoonian1,2, Izumi Fukunaga1, Julia J. Harris1,2 & Andreas T. Schaefer  
+[PDF] [DOI] [PubMed]
