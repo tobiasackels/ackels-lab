@@ -9,4 +9,4 @@ design:
   columns: "1"
 ---
 
-{{% cta cta_link="./people/" cta_text="Join our lab →" %}}
+{{% cta cta_link="./contact/" cta_text="Join our lab →" %}}
