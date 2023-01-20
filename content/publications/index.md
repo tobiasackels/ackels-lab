@@ -43,5 +43,12 @@ Racz R.R., Kollo M., Racz G., Bulz C., **Ackels T.**, Warner T., Wray W., Kiskin
 Zeppilli S., **Ackels T.**, Attey R., Klimpert N., Boeing S., Crombach A., Schaefer A.T. and Fleischmann A.  
 *eLife*, 10:e65445 (2021)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.7554/eLife.65445)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
 
+**Respiration-Locking of Olfactory Receptor and Projection Neurons in the Mouse Olfactory Bulb and Its Modulation by Brain State**  
+**Ackels T.**, Jordan R., Schaefer A.T. and Fukunaga I.  
+*Frontiers in Cellular Neuroscience* 14, 1-15 (2020)  [[PDF](*.pdf)] [[DOI](https://doi.org/10.3389/fncel.2020.00220)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
+
+**Expression patterns of chloride transporters in the auditory brainstem of developing chicken**  
+Wirth M.J., **Ackels T.**, Kriebel A., Kriebel K., Mey J., Kuenzel T. and Wagner H.  
+*Hearing Research* 393, 108013 (2020)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.1016/j.heares.2020.108013)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
 
 
