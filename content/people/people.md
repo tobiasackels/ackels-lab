@@ -3,6 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
 
+
 # This file represents a page section.
 headless: true
 
@@ -26,4 +27,6 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+---
+
 ---
