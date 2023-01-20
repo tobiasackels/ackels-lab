@@ -1,65 +1,57 @@
 ---
-title: 'An example preprint / working paper'
+title: Fast odour dynamics are encoded in the olfactory system and guide behaviour
+abstract: Odours are transported in turbulent plumes, which result in rapid
+  concentration fluctuations1,2 that contain rich information about the
+  olfactory scenery, such as the composition and location of an odour
+  source2,3,4. However, it is unclear whether the mammalian olfactory system can
+  use the underlying temporal structure to extract information about the
+  environment. Here we show that ten-millisecond odour pulse patterns produce
+  distinct responses in olfactory receptor neurons. In operant conditioning
+  experiments, mice discriminated temporal correlations of rapidly fluctuating
+  odours at frequencies of up to 40 Hz. In imaging and electrophysiological
+  recordings, such correlation information could be readily extracted from the
+  activity of mitral and tufted cells—the output neurons of the olfactory bulb.
+  Furthermore, temporal correlation of odour concentrations5 reliably predicted
+  whether odorants emerged from the same or different sources in naturalistic
+  environments with complex airflow. Experiments in which mice were trained on
+  such tasks and probed using synthetic correlated stimuli at different
+  frequencies suggest that mice can use the temporal structure of odours to
+  extract information about space. Thus, the mammalian olfactory system has
+  access to unexpectedly fast temporal features in odour stimuli. This endows
+  animals with the capacity to overcome key behavioural challenges such as odour
+  source separation5, figure–ground segregation6 and odour localization7 by
+  extracting information about space from temporal odour dynamics.
+slides: null
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+publication_types:
+  - "2"
 authors:
   - admin
-date: '2019-04-07T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['3']
-
-# Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-  - Source Themes
+publication: ""
 featured: false
-
+tags: []
+projects:
+  - internal-project
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: "#"
+url_project: ""
+publication_short: ""
+url_source: "#"
+url_video: "#"
+date: 2023-01-20T12:03:25.560Z
+url_slides: ""
 links:
   - name: Custom Link
     url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: "#"
+doi: 10.1038/s41586-021-03514-2
 ---
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
