@@ -23,7 +23,7 @@ design:
 Frederico B., Martins I., Chapela D., Gasparrini F., Piot C., Chakravarty P., **Ackels T.**, Almeida B., Ciccarelli A., Peddie C.J., Rogers N., Briscoe J., Guillemot F., Schaefer A.T., Saúde L., Reis e Sousa C.  
 *Developmental Cell*, 57, (2022) [[PDF](https://ackelslab.com/uploads/pdf/*.pdf)] [[DOI](https://doi.org/10.1016/j.devcel.2022.07.012)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
 
-**Functional and multiscale 3D structural investigation of brain tissue through correlative in vivo physiology, synchrotron micro-tomography and volume electron microscopy**
+**Functional and multiscale 3D structural investigation of brain tissue through correlative in vivo physiology, synchrotron micro-tomography and volume electron microscopy**  
 Bosch C., **Ackels T.**, Pacureanu A., Zhang Y., Peddie C.J., Berning M., Rzepka N., Zdora M.C., Whiteley I., Storm M., Bonnin A., Rau C., Margrie T., Briggman K., Collinson L. and Schaefer A.T.  
 *Nature Communications*, 13 (1), 2923 (2022)  [[PDF](https://ackelslab.com/uploads/pdf/*.pdf)] [[DOI](https://doi.org/10.1038/s41467-022-30199-6)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
 
@@ -87,11 +87,11 @@ Kaur A.W., **Ackels T.**, Kuo T., Cichy A., Dey S., Hays C., Kateri M., Logan D.
 
 **INVITED REVIEWS**  
 
-**Information about space from time: How mammals navigate the odour landscape**
+**Information about space from time: How mammals navigate the odour landscape**  
 **Ackels T.**  
 *Neuroforum* (2022)  [[PDF](*.pdf)] [[DOI](https://doi.org/10.1515/nf-2022-0006)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]  
 
-**Getting out the caliper: Behavioral quantification of perceptual odor similarity**
+**Getting out the caliper: Behavioral quantification of perceptual odor similarity**  
 **Ackels T.** and Schaefer A.T.  
 *Cell Reports Methods preview* (2022)  [[PDF](*.pdf)] [[DOI](https://doi.org/10.1016/j.crmeth.2022.100240)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]  
 
