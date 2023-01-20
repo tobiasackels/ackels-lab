@@ -1,5 +1,7 @@
 # Disclaimer / Impressum
 
+---
+
 Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 
 Tobias Ackels  
