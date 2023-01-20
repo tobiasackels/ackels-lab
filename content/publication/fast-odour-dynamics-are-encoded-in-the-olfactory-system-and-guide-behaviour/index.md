@@ -3,9 +3,7 @@ title: Fast odour dynamics are encoded in the olfactory system and guide behavio
 publication_types:
   - "2"
 authors:
-  - Tobias Ackels1
-  - "2"
-  - "3"
+  - "**Tobias Ackels**"
   - Andrew Erskine1
   - "2"
   - "3"
