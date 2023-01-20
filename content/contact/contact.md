@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: 
 subtitle:
 
 content:
@@ -18,7 +18,7 @@ content:
   email: tobias.ackels@gmail.com
   phone: 888 888 88 88
   address:
-    directions: 
+  # directions: 
     street: Francis Crick Institute, 1 Midland Road
     city: London
     postcode: 'NW1 1AT'
@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '51.53175'
     longitude: '-0.12869'
-  appointment_url: 'https://calendly.com'
+  # appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
