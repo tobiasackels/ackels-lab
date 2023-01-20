@@ -41,7 +41,7 @@ Racz R.R., Kollo M., Racz G., Bulz C., **Ackels T.**, Warner T., Wray W., Kiskin
 **Ackels T.*** , Erskine A.* , Dasgupta D.* , Marin A.C., Warner T.P.A., Tootoonian S., Fukunaga I., Harris J.J. and Schaefer A.T  
 *Nature*, 593, 558–563 (2021) [[PDF](https://ackelslab.com/uploads/pdf/Ackels_et_al_2021_Nature.pdf)] [[DOI](https://doi.org/10.1038/s41586-021-03514-2)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33953395/)]
 
-**A. Molecular characterization of projection neuron subtypes in the mouse olfactory bulb**  
+**Molecular characterization of projection neuron subtypes in the mouse olfactory bulb**  
 Zeppilli S., **Ackels T.**, Attey R., Klimpert N., Boeing S., Crombach A., Schaefer A.T. and Fleischmann A.  
 *eLife*, 10:e65445 (2021)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.7554/eLife.65445)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
 
