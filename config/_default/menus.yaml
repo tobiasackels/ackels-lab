@@ -11,7 +11,7 @@ main:
     url: project
     weight: 20
   - name: Publications
-    url: /content/#publications.md
+    url: publications
     weight: 30
   - name: People
     url: people
