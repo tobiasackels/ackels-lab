@@ -11,7 +11,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: logo.svg
+    image: welcome.jpg
 hero_media: welcome.jpg
 ---
 
