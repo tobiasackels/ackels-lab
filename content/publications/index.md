@@ -17,7 +17,7 @@ design:
   view: list 
 ---
 
-# Start with newest publication here
+# Publications
 
 **DNGR-1 lineage tracing reveals a population of damage-responsive neural stem cells in the central nervous system**  
 Frederico B., Martins I., Chapela D., Gasparrini F., Piot C., Chakravarty P., **Ackels T.**, Almeida B., Ciccarelli A., Peddie C.J., Rogers N., Briscoe J., Guillemot F., Schaefer A.T., Saúde L., Reis e Sousa C.  
