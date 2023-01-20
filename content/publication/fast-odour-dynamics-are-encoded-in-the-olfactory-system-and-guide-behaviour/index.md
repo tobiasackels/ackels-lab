@@ -5,7 +5,7 @@ publication_types:
 authors:
   - "**Tobias Ackels**"
   - Andrew Erskine1
-  - "<sup>2</sup>"
+  - <sup>2</sup>
   - "3"
   - Debanjan Dasgupta1
   - "2"
