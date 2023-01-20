@@ -36,7 +36,7 @@ Racz R.R., Kollo M., Racz G., Bulz C., **Ackels T.**, Warner T., Wray W., Kiskin
 *Journal of Neuroengineering*, 19 (1), 016041 (2022)  [[PDF](*.pdf)] [[DOI](https://doi.org/10.1088/1741-2552/ac514f)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
 
 **Fast odour dynamics are encoded in the olfactory system and guide behaviour**  
-**Ackels T.*** , Erskine A.*, Dasgupta D.*, Marin A.C., Warner T.P.A., Tootoonian S., Fukunaga I., Harris J.J. and Schaefer A.T 
+**Ackels T.*** , Erskine A.* , Dasgupta D.* , Marin A.C., Warner T.P.A., Tootoonian S., Fukunaga I., Harris J.J. and Schaefer A.T  
 *Nature*, 593, 558–563 (2021) [[PDF](https://ackelslab.com/uploads/pdf/Ackels_et_al_2021_Nature.pdf)] [[DOI](https://doi.org/10.1038/s41586-021-03514-2)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33953395/)]
 
 **A. Molecular characterization of projection neuron subtypes in the mouse olfactory bulb**  
