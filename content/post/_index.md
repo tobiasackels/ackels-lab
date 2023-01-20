@@ -1,5 +1,5 @@
 ---
-title: 
+title: Latest News
 
 # Listing view
 view: list
@@ -9,8 +9,6 @@ banner:
   caption: ''
   image: ''
 ---
-
-# Latest News
 
 --- 
 
