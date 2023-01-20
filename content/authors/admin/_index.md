@@ -25,7 +25,8 @@ education:
   courses: []
 email: ""
 superuser: true
-user_groups: []
+user_groups:
+  - PI
 highlight_name: false
 ---
 
