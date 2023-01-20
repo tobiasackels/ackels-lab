@@ -19,4 +19,4 @@ design:
 
 **Fast odour dynamics are encoded in the olfactory system and guide behaviour**  
 **Tobias Ackels*** , Andrew Erskine*, Debanjan Dasgupta*, Alina Cristina Marin, Tom P. A. Warner, Sina Tootoonian, Izumi Fukunaga, Julia J. Harris & Andreas T. Schaefer  
-*Nature*, 593, 558–563 (2021) [PDF] [DOI] [PubMed]
+*Nature*, 593, 558–563 (2021) [PDF] [DOI](https://doi.org/10.1038/s41586-021-03514-2) [PubMed]
