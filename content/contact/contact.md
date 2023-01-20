@@ -18,8 +18,8 @@ content:
   email: tobias.ackels@gmail.com
   phone: 888 888 88 88
   address:
-    directions: Francis Crick Institute
-    street: 1 Midland Road
+    directions: 
+    street: Francis Crick Institute, 1 Midland Road
     city: London
     postcode: 'NW1 1AT'
     country: United Kingdom
