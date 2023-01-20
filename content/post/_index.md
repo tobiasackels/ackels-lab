@@ -1,11 +1,17 @@
 ---
-title: Latest News
+title: 
 
 # Listing view
-view: compact
+view: list
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
+
+# Latest News
+
+--- 
+
+
