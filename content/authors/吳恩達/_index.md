@@ -3,7 +3,7 @@ organizations: []
 superuser: false
 authors:
   - 吳恩達
-title: You
+title: You as Postdoc
 role: Postdoc
 bio: ""
 interests: []
