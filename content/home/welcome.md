@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: ""
 subtitle: Sensory neuroscience of behavior
-active: true
+active: false
 design:
   columns: "1"
   css_style: null
