@@ -7,14 +7,14 @@ interests: []
 social:
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fas
     link: tobias.ackels@gmail.com
     label: email
     icon: email
   - display:
       header: false
     link: https://twitter.com/tobiasackels
-    icon_pack: far
+    icon_pack: fas
     icon: twitter
     label: Twitter
   - icon: google-scholar
