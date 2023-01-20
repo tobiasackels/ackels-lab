@@ -3,38 +3,29 @@ title: Tobias Ackels
 role: Principal Investigator
 avatar_filename: null
 bio: My research interests include...
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  - display:
+      header: false
+    icon_pack: ai
+    link: tobias.ackels@gmail.com
+    label: email
+    icon: email
+  - display:
+      header: false
+    link: https://twitter.com/tobiasackels
+    icon_pack: ai
+    icon: twitter
+    label: Twitter
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-organizations:
-  - name: Stanford University
-    url: ""
+    link: https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate
+organizations: []
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: true
-user_groups:
-  - Researchers
+user_groups: []
 highlight_name: false
 ---
 
