@@ -12,6 +12,9 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+  
+design:
+  columns: '1' 
 ---
 
 Add your *content* here...
