@@ -1,7 +1,7 @@
 ---
 title: ""
 summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+date: ""
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -14,7 +14,7 @@ header:
   image: ""
 
 design:
-  view: showcase 
+  view: list 
 ---
 
 **Fast odour dynamics are encoded in the olfactory system and guide behaviour**  
