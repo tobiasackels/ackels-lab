@@ -51,4 +51,56 @@ Zeppilli S., **Ackels T.**, Attey R., Klimpert N., Boeing S., Crombach A., Schae
 Wirth M.J., **Ackels T.**, Kriebel A., Kriebel K., Mey J., Kuenzel T. and Wagner H.  
 *Hearing Research* 393, 108013 (2020)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.1016/j.heares.2020.108013)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
 
+**An ancestral TMEM16 homolog from Dictyostelium discoideum forms a scramblase**  
+Pelz T., Drose D.R., Fleck D., Henkel B., **Ackels T.**, Spehr M. and Neuhaus E.M.  
+*PLoS One* 13(2), e0191219 (2018)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.1371/journal.pone.0191219)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
+
+**Membrane permeation of arginine-rich cell-penetrating peptides independent of transmembrane potential as a function of lipid composition and membrane fluidity**  
+Wallbrecher R., **Ackels T.**, Olea R.A., Klein M.J., Caillon L., Schiller J., Bovée-Geurts P.H., van Kuppevelt T.H., Ulrich A.S., Spehr M., Adjobo-Hermans M.J.W. and Brock R.  
+*Journal of Controlled Release* 256, 68-78 (2017) [[PDF](*.pdf)] [[DOI](http://doi.org/10.1016/j.jconrel.2017.04.013)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
+  
+**In-depth Physiological Analysis of Defined Cell Populations in Acute Tissue Slices of the Mouse Vomeronasal Organ**  
+**Ackels T.**, Drose D.R., Spehr M.  
+*Journal of Visual Experiments* 115, 1-9 (2016)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.3791/54517)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
+
+**CD36 is Involved in Oleic Acid Detection by the Murine Olfactory System**  
+Oberland S., **Ackels T.**, Gaab S., Pelz T., Spehr J., Spehr M., Neuhaus E.M.  
+*Frontiers in Cellular Neuroscience*, 9:366 (2015)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.3389/fncel.2015.00366)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
+
+**Extracellular pH Regulates Excitability of Vomeronasal Sensory Neurons**  
+Cichy A., **Ackels T.**, Tsitoura C., Kahan A., Gronloh N., Söchtig M., Engelhardt C., Ben-Shaul Y., Müller F., Spehr J. and Spehr M.  
+*The Journal of Neuroscience* 35(9), 4025-4039 (2015)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.1523/jneurosci.2593-14.2015)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
+
+**Coexpression of Anoctamins in Cilia of Olfactory Sensory Neurons**  
+Henkel B., Drose D., **Ackels T.**, Oberland S., Spehr M. and Neuhaus E.M.  
+*Chemical Senses* 40(2), 73-87 (2015)  [[PDF](*.pdf)] [[DOI](https://doi.org/10.1093/chemse/bju061)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
+
+**Physiological Characterization of Formyl Peptide Receptor Expressing Cells in the Mouse Vomeronasal Organ**  
+**Ackels T.**, von der Weid B., Rodriguez I. and Spehr M.  
+*Frontiers in Neuroanatomy* 8, 1-13 (2014)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.3389/fnana.2014.00134)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
+
+**Murine Pheromone Proteins Constitute a Context-Dependent Combinatorial Code Governing Multiple Social Behaviors**  
+Kaur A.W., **Ackels T.**, Kuo T., Cichy A., Dey S., Hays C., Kateri M., Logan D.W., Marton T.F., Spehr M. and Stowers L.  
+*Cell* 157, 676-88 (2014)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.1016/j.cell.2014.02.025)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]
+
+---
+
+**INVITED REVIEWS**  
+
+**Information about space from time: How mammals navigate the odour landscape**
+**Ackels T.**  
+*Neuroforum* (2022)  [[PDF](*.pdf)] [[DOI](https://doi.org/10.1515/nf-2022-0006)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]  
+
+**Getting out the caliper: Behavioral quantification of perceptual odor similarity**
+**Ackels T.** and Schaefer A.T.  
+*Cell Reports Methods preview* (2022)  [[PDF](*.pdf)] [[DOI](https://doi.org/10.1016/j.crmeth.2022.100240)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)]  
+
+**Spatial information from the odour environment in mammalian olfaction**  
+Marin A.C., Schaefer A.T. and **Ackels T.**  
+*Cell and Tissue Research*, 383, 473–483 (2021)  [[PDF](*.pdf)] [[DOI](https://doi.org/10.1007/s00441-020-03395-3)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)] 
+
+**The Maps they are a-changin’: Plasticity in Odor Representation in Interneurons**  
+**Ackels T.** and Schaefer A.T.  
+*Nature Neuroscience* (News and Views) 20 (2), 128–129 (2017)  [[PDF](*.pdf)] [[DOI](http://doi.org/10.1038/nn.4484)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/*/)] 
+
 
