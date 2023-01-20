@@ -1,5 +1,5 @@
 ---
-title: Research project
+title: .
 date: 2023-01-19T16:13:31.572Z
 draft: false
 featured: false
