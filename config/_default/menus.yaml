@@ -13,15 +13,21 @@ main:
   - name: Publications
     url: publications
     weight: 30
+  - name: Positions
+    url: positions
+    weight: 40    
   - name: People
     url: people
-    weight: 40    
+    weight: 50    
   - name: News
     url: post
-    weight: 50
-  - name: Join our lab
+    weight: 60
+  - name: Contact
     url: contact
-    weight: 60    
+    weight: 70
+  - name: Disclaimer
+    url: disclaimer
+    weight: 80      
 #  - name: Events
 #    url: event
 #    weight: 40
