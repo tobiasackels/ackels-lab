@@ -2,7 +2,7 @@
 title: Fast odour dynamics are encoded in the olfactory system and guide behaviour
 publication_types:
   - "2"
-author_notes:
+authors:
   - Tobias Ackels1
   - "2"
   - "3"
@@ -20,8 +20,9 @@ author_notes:
   - Julia J. Harris1
   - 2 & Andreas T. Schaefer1
   - "2"
+author_notes: []
 doi: 10.1038/s41586-021-03514-2
-publication: Nature
+publication: Nature, 593, 558–563 (2021).
 abstract: Odours are transported in turbulent plumes, which result in rapid
   concentration fluctuations1,2 that contain rich information about the
   olfactory scenery, such as the composition and location of an odour
