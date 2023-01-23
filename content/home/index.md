@@ -1,11 +1,12 @@
 ---
 widget: about
-active: true
+active: false
 author: admin
 widget_id: aboutme
-headless: false
-weight: 20
+headless: true
+weight: 30
 title: Biography
+subtitle: The PI
 design:
   background:
     image: photo_tobias.jpg
