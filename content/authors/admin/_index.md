@@ -7,7 +7,7 @@ interests: []
 social:
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fab
     link: tobias.ackels@gmail.com
     label: ""
     icon: email
