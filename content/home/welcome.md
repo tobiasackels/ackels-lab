@@ -17,4 +17,4 @@ hero_media: welcome.jpg
 
 <br>
 
-This will be the website of the **Ackels lab**
+Welcome to the  website of the Ackels lab. We're studying the sensory neuroscience of behavior. Please get in touch if you are interested in joining us!
