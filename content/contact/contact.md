@@ -54,4 +54,6 @@ design:
 
 --- 
 
+<!---
 If you want to learn more about the lab, please get in touch by filling the form below! 
+---!>
