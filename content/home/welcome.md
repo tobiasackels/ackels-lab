@@ -1,8 +1,8 @@
 ---
-widget: hero
-widget_id: .
+widget: blank
+widget_id: overview
 headless: true
-weight: 10
+weight: 0
 title: ""
 subtitle: Sensory neuroscience of behavior
 active: true
