@@ -20,13 +20,15 @@ header:
 ---  
 
 We are hiring! 
-Are curious about how the brain extracts what's relevant from the constant flow of sensory information?
+Are curious about how the brain extracts the relevant bits from the constant flow of sensory information?
 We are looking for highly motivated PhD, Postdoc and Master candidates to join the team. 
 All positions are fully funded and supported by our third party funds, including the ERC.
 
 If you are interested, please apply by sending an email to [tobias.ackels@gmail.com](tobias.ackels@gmail.com).
 
-    # [contact us]({{< relref "https://ackelslab.com/contact" >}}).
+<!---
 
+( [contact us]({{< relref "https://ackelslab.com/contact" >}}) ).
 
+!--->
 
