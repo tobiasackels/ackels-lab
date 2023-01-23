@@ -2,7 +2,7 @@
 widget: blank
 widget_id: overview
 headless: true
-weight: 0
+weight: 10
 title: ""
 subtitle: Sensory neuroscience of behavior
 active: true
