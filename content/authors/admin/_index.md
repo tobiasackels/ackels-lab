@@ -33,12 +33,12 @@ organizations:
   - name: The Francis Crick Institute, UK
 education:
   courses:
-    - course: Ph.D. in Neuroscience
-      institution: RWTH Aachen University
-      year: 2015
-    - course: Postdoctoral Researcher
-      institution: The Francis Crick Institute
-      year: 2023
+    - course: Ph.D. in Neuroscience, 2015
+      institution: RWTH Aachen University, Germany
+      year: ""
+    - course: Postdoctoral Researcher 2015-2023
+      institution: The Francis Crick Institute, UK
+      year: ""
 email: ""
 superuser: true
 user_groups:
