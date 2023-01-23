@@ -26,7 +26,7 @@ social:
   - display:
       header: false
     link: "mailto: tobias.ackels@gmail.com"
-    icon_pack: fab
+    icon_pack: fas
     icon: envelope
 organizations: []
 education:
