@@ -19,8 +19,8 @@ header:
 
 ---  
 
-We are hiring! 
-Are curious about how the brain extracts the relevant bits from the constant flow of sensory information?
+We are hiring!  
+Are you curious about how the brain extracts the relevant bits from the constant flow of sensory information we are under?
 We are looking for highly motivated PhD, Postdoc and Master candidates to join the team. 
 All positions are fully funded and supported by our third party funds, including the ERC.
 
