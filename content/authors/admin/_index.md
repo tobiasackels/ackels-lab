@@ -26,7 +26,7 @@ social:
     label: pubmed
 organizations: []
 education:
-  courses: Ph.D. in Neuroscience, 2015
+  courses: []
 email: "tobias.ackels@gmail.com"
 superuser: true
 user_groups:
