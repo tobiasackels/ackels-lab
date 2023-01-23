@@ -7,11 +7,9 @@ title: ""
 subtitle: Sensory neuroscience of behavior
 active: true
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
-  # background:
-    # image: welcome.jpg
 hero_media: welcome.jpg
 ---
 
