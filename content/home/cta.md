@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Join
 headless: true
-weight: 40
+weight: 30
 title: null
 subtitle: null
 design:
