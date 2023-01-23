@@ -28,9 +28,17 @@ social:
     link: "mailto: tobias.ackels@gmail.com"
     icon_pack: fas
     icon: envelope
-organizations: []
+organizations:
+  - name: RWTH Aachen University, Germany
+  - name: The Francis Crick Institute, UK
 education:
-  courses: []
+  courses:
+    - course: Ph.D. in Neuroscience
+      institution: RWTH Aachen University
+      year: 2015
+    - course: Postdoctoral Researcher
+      institution: The Francis Crick Institute
+      year: 2023
 email: ""
 superuser: true
 user_groups:
