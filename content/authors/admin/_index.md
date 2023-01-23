@@ -1,7 +1,7 @@
 ---
 title: Tobias Ackels
 role: Principal Investigator
-avatar_filename: null
+avatar_filename: photo_tobias.jpg
 bio: My research interests include...
 interests: []
 social:
