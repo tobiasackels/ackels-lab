@@ -5,14 +5,10 @@ avatar_filename: photo_tobias.jpg
 bio: My research interests include...
 interests:
   - Olfaction
-  - Sensory
+  - Sensory neuroscience
+  - Family
+  - Drumming
 social:
-  - display:
-      header: false
-    icon_pack: fab
-    link: tobias.ackels@gmail.com
-    label: ""
-    icon: email
   - display:
       header: false
     link: https://twitter.com/tobiasackels
@@ -30,8 +26,8 @@ social:
     label: pubmed
 organizations: []
 education:
-  courses: []
-email: ""
+  courses: Ph.D. in Neuroscience, 2015
+email: "tobias.ackels@gmail.com"
 superuser: true
 user_groups:
   - Principal Investigator
