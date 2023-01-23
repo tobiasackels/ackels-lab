@@ -3,7 +3,7 @@ widget: about
 active: true
 author: admin
 widget_id: aboutme
-headless: true
+headless: false
 weight: 20
 title: Biography
 design:
