@@ -14,7 +14,7 @@ social:
   - display:
       header: false
     link: https://twitter.com/tobiasackels
-    icon_pack: fas
+    icon_pack: far
     icon: twitter
     label: Twitter
   - icon: google-scholar
