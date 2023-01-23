@@ -22,7 +22,7 @@ social:
       header: false
     link: https://twitter.com/tobiasackels
     icon_pack: fab
-    icon: fa-twitter
+    icon: twitter
 organizations: []
 education:
   courses: []
