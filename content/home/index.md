@@ -1,15 +1,13 @@
 ---
-widget: about
+widget: index
 active: true
 author: admin
-widget_id: aboutme
+widget_id: summary
 headless: true
 weight: 30
-title: Biography
-subtitle: The PI
+title: ""
+subtitle: ""
 design:
   background:
-    image: photo_tobias.jpg
+    image: ""
 ---
-
-The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
