@@ -23,10 +23,15 @@ social:
     link: https://twitter.com/tobiasackels
     icon_pack: fab
     icon: twitter
+  - display:
+      header: false
+    link: "mailto: tobias.ackels@gmail.com"
+    icon_pack: fab
+    icon: envelope
 organizations: []
 education:
   courses: []
-email: tobias.ackels@gmail.com
+email: ""
 superuser: true
 user_groups:
   - Principal Investigator
