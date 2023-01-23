@@ -19,7 +19,7 @@ header:
 
 ---  
 
-We are always looking for highly motivated MSc / PhD students and postdocs to join the team. If you are interested, please don’t hesitate to [contact us]({{< relref "/contact" >}}).
+We are always looking for highly motivated MSc / PhD students and postdocs to join the team. If you are interested, please don’t hesitate to [contact us]({{< relref/contact>}}).
 
 
 
