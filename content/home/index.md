@@ -1,6 +1,6 @@
 ---
 widget: index
-active: true
+active: false
 author: admin
 widget_id: summary
 headless: true
