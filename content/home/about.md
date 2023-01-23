@@ -3,7 +3,7 @@ widget: about
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background etc.)
-title: Biography
+title: The PI
 weight: 20 # Position of section on page
 
 # Choose the user profile to display
