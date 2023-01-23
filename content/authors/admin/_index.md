@@ -3,7 +3,9 @@ title: Tobias Ackels
 role: Principal Investigator
 avatar_filename: photo_tobias.jpg
 bio: My research interests include...
-interests: []
+interests:
+  - Olfaction
+  - Sensory
 social:
   - display:
       header: false
