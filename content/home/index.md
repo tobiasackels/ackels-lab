@@ -1,10 +1,11 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: aboutme
 headless: true
 weight: 20
 title: Biography
-author: admin
 design:
   background:
     image: photo_tobias.jpg
