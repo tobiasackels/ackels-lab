@@ -1,6 +1,6 @@
 ---
 widget: hero
-active: true
+active: false
 author: admin
 widget_id: index
 headless: true
