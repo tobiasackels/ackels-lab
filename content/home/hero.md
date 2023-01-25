@@ -3,9 +3,9 @@ widget: hero
 widget_id: overview
 headless: true
 weight: 10
-title: "The lab"
+title: The lab
 subtitle: Sensory neuroscience of behavior
-active: false
+active: true
 design:
   columns: ""
   css_style: null
