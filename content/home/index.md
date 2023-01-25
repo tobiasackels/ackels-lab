@@ -4,12 +4,12 @@ active: true
 author: admin
 widget_id: index
 headless: true
-weight: 40
+weight: 10
 title: ""
 subtitle: ""
 design:
   background:
-    image: ""
+    image: logo.png
   columns: "2"
 ---
 ### Sensory neuroscience of behaviour lab
