@@ -2,10 +2,10 @@
 widget: hero
 active: true
 author: admin
-widget_id: summary
+widget_id: index
 headless: true
 weight: 10
-title: "The lab"
+title: ""
 subtitle: ""
 design:
   background:
