@@ -21,7 +21,9 @@ Please get in touch if you are interested in joining us!
 
 
 ### How do mammals extract information about space from time?
-Text will go here
+<img src="ackelslab/assets/media/mouse_test.png"
+     alt="Mouse"
+     style="float: left; margin-right: 10px;" />
 
 ### Key methods and techniques
 To deliver odor stimuli in a controlled and temporally precise manner, we developed a high-speed odor delivery device ("tODD"). Temporally complex odor plumes of different chemical identity, concentration and across a range of temporal profiles are presented to animals. Mice are either placed on a disk-shaped treadmill or they are freely moving in a behavioral arena and need to, for example, navigate to the source of an odor stimulus.  
