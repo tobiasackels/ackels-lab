@@ -21,7 +21,7 @@ Please get in touch if you are interested in joining us!
 
 
 ### How do mammals extract information about space from time?
-<img src="https://ackelslab.com/assets/media/mouse_test.png"
+<img src="https://ackelslab.com/images/mouse_test.png"
      alt="Mouse"
      style="float: left; margin-right: 10px;" />
 
