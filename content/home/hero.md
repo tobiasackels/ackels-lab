@@ -10,9 +10,7 @@ design:
   columns: ""
   css_style: null
   css_class: null
-  background:
-    image: mouse_test.png
-hero_media: welcome.jpg
+hero_media: mouse_test.png
 ---
 
 <br>
