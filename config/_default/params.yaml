@@ -6,8 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
-  theme_night: Mr Robot
+  # theme_day: Mr Robot
+  # theme_night: Mr Robot
+  themeÖ Mr Robot
   font: native
   font_size: M
 
@@ -35,7 +36,7 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
