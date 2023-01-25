@@ -5,7 +5,7 @@ author: admin
 widget_id: summary
 headless: true
 weight: 10
-title: ""
+title: "The lab"
 subtitle: ""
 design:
   background:
