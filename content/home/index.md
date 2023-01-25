@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: index
 headless: true
-weight: 10
+weight: 40
 title: ""
 subtitle: ""
 design:
