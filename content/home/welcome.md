@@ -13,6 +13,12 @@ design:
 hero_media: mouse_test.jpg
 ---
 
+{{ $type := .Get 0 }}
+{{ printf "<blockquote class=\"md-hint %s\">" $type | htmlUnescape | safeHTML }}
+{{ .Inner }}
+{{ printf "</blockquote>" | htmlUnescape | safeHTML }}
+
+
 {{% columns %}}
 
 #### Title 1
