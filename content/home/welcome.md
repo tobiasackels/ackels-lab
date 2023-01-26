@@ -13,8 +13,17 @@ design:
 hero_media: mouse_test.jpg
 ---
 
-<div style="width: 50%;">Column 1 content</div><div style="width: 50%;">Column 2 content</div>
-
+{{< row >}}
+{{< column>}}
+something1
+{{< /column>}}
+{{< column>}}
+something1
+{{< /column>}}
+{{< column>}}
+something1
+{{< /column>}}
+{{< /row >}}
 
 <br>
 
