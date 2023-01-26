@@ -13,7 +13,7 @@ design:
 hero_media: mouse_test.jpg
 ---
 
-{{< row >}}
+<!-- {{< row >}}
 {{< column>}}
 something1
 {{< /column>}}
@@ -23,7 +23,7 @@ something1
 {{< column>}}
 something1
 {{< /column>}}
-{{< /row >}}
+{{< /row >}} -->
 
 <br>
 
