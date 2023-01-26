@@ -19,21 +19,11 @@ hero_media: mouse_test.jpg
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
 
-{{< hint warning >}}
-Example text that *may* contain **markdown** `markup`.
-{{< /hint >}}
-
 <--->
 
 #### Title 2
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-
-<--->
-
-#### Title 3
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[^columntest]
 
 {{% /columns %}}
 
