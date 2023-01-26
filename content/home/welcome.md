@@ -13,17 +13,6 @@ design:
 hero_media: mouse_test.jpg
 ---
 
-<!-- {{< row >}}
-{{< column>}}
-something1
-{{< /column>}}
-{{< column>}}
-something1
-{{< /column>}}
-{{< column>}}
-something1
-{{< /column>}}
-{{< /row >}} -->
 
 <br>
 
