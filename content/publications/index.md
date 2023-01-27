@@ -104,3 +104,5 @@ Marin A.C., Schaefer A.T. and **Ackels T.**
 **The Maps they are a-changin’: Plasticity in Odor Representation in Interneurons**  
 **Ackels T.** and Schaefer A.T.  
 *Nature Neuroscience* (News and Views) 20 (2), 128–129 (2017)  [[PDF](https://ackelslab.com/uploads/pdf/Ackels_Schaefer_NatNeur_2017.pdf)] [[DOI](http://doi.org/10.1038/nn.4484)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28127039/)] 
+
+*All pdf files provided on this site are for personal use only. They may not be reposted without the explicit permission of the copyright holder. All persons copying this information will adhere to the terms and constraints invoked by each author's copyright.*
