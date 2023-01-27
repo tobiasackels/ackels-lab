@@ -13,11 +13,13 @@ design:
 hero_media: mouse_test.jpg
 ---
 
+
+
 <br>
 
 ### Sensory neuroscience of behaviour lab
 Welcome to the website of the Ackels lab. The goal of the lab is to answer questions on how mammals use their senses to make behavioral decisions.  
-Please get in touch if you are interested in joining us!  
+Please do get in touch if you are interested in joining us!  
 
 
 ### How do mammals extract information about space from time?
