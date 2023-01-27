@@ -13,7 +13,7 @@ design:
 hero_media: mouse_test.jpg
 ---
 
-{{ $type := .Get 0 }}
+<!-- {{ $type := .Get 0 }}
 {{ printf "<blockquote class=\"md-hint %s\">" $type | htmlUnescape | safeHTML }}
 {{ .Inner }}
 {{ printf "</blockquote>" | htmlUnescape | safeHTML }}
@@ -27,11 +27,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <--->
 
-#### Title 2
+<!-- #### Title 2
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 
-{{% /columns %}}
+{{% /columns %}} --> -->
 
 <br>
 
