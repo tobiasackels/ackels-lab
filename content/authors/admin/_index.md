@@ -28,6 +28,11 @@ social:
     link: "mailto: tobias.ackels@gmail.com"
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: https://ackelslab.com/uploads/CV_Tobias_Ackels.pdf
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: RWTH Aachen University, Germany
   - name: The Francis Crick Institute, UK
