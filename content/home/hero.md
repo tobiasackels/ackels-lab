@@ -3,7 +3,7 @@ widget: hero
 widget_id: overview
 headless: true
 weight: 10
-title: ""
+title: "test"
 subtitle: Sensory neuroscience of behavior
 active: false
 design:
