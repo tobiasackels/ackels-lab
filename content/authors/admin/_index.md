@@ -11,17 +11,10 @@ interests:
 social:
   - display:
       header: false
-<<<<<<< HEAD
     link: "http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf"
     icon_pack: ai
     icon: cv
     label: CV   
-
-=======
-    link: https://ackelslab.com/uploads/CV_Tobias_Ackels.pdf
-    icon_pack: ai
-    icon: cv
->>>>>>> dda05e660fdb8485918597eeca71fdd113a07e81
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate
@@ -38,7 +31,7 @@ social:
     link: https://twitter.com/tobiasackels
     icon_pack: fab
     icon: twitter
-    
+
   - display:
       header: false
     link: "mailto: tobias.ackels@gmail.com"
