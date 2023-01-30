@@ -9,35 +9,46 @@ interests:
   - Family
   - Drumming
 social:
+  - display:
+      header: false
+    link: "http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf"
+    icon_pack: ai
+    icon: cv
+    label: CV   
+
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate
+
   - display:
       header: false
     link: https://pubmed.ncbi.nlm.nih.gov/?term=ackels+t
     icon_pack: ai
     icon: pubmed
     label: pubmed
+
   - display:
       header: false
     link: https://twitter.com/tobiasackels
     icon_pack: fab
     icon: twitter
+    
   - display:
       header: false
     link: "mailto: tobias.ackels@gmail.com"
     icon_pack: fas
     icon: envelope
+ 
 organizations:
   - name: RWTH Aachen University, Germany
   - name: The Francis Crick Institute, UK
 education:
   courses:
-    - course: Ph.D. in Neuroscience, 2015
-      institution: RWTH Aachen University, Germany
-      year: ""
     - course: Postdoctoral Researcher 2015-2023
       institution: The Francis Crick Institute, UK
+      year: ""
+    - course: Ph.D. in Neuroscience, 2015
+      institution: RWTH Aachen University, Germany
       year: ""
 email: ""
 superuser: true

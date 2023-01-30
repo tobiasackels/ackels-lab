@@ -25,7 +25,7 @@ Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 Tobias Ackels  
 5 Maurice Walk  
 NW11 6JX  
-London,UK  
+London, UK  
 
 Disclaimer – rechtliche Hinweise  
 § 1 Warnhinweis zu Inhalten
