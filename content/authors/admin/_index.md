@@ -9,6 +9,11 @@ interests:
   - Family
   - Drumming
 social:
+  - display:
+      header: false
+    link: https://ackelslab.com/uploads/CV_Tobias_Ackels.pdf
+    icon_pack: ai
+    icon: cv
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate
@@ -28,11 +33,6 @@ social:
     link: "mailto: tobias.ackels@gmail.com"
     icon_pack: fas
     icon: envelope
-  - display:
-      header: false
-    link: https://ackelslab.com/uploads/CV_Tobias_Ackels.pdf
-    icon_pack: ai
-    icon: cv
 organizations:
   - name: RWTH Aachen University, Germany
   - name: The Francis Crick Institute, UK
