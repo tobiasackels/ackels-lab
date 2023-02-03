@@ -20,7 +20,9 @@ hero_media: ""
 <br>
 
 <h1 style="text-align: center;">Welcome to the website of the Ackels lab!  </h1>
-The goal of the lab will be to answer questions on how mammals use their senses to make behavioral decisions.
 <br>
 <br>
-More information on the lab, our research and on how to get in touch if you are interested in joining us will be coming soon!  
+<h3 style="text-align: center;">The goal of the lab will be to answer questions on how mammals use their senses to make behavioral decisions.</h3>
+<br>
+<br>
+<h3 style="text-align: center;">More information on the lab, our research and on how to get in touch if you are interested in joining us will be coming soon!  </h3>
