@@ -23,6 +23,8 @@ hero_media: ""
  <br>
 Ackels lab!  </h1>
 <br>
+{{< figure src="logo.png" >}}
+
 <br>
 <h3 style="text-align: center;">Our goal will be to answer questions on how mammals use their senses to make behavioral decisions.</h3>
 <br>
