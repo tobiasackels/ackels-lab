@@ -14,12 +14,12 @@ hero_media: ""
 ---
 
 
-<h1 style="text-align: center;">Sensory neuroscience of behaviour lab</h1>
-<br>
+<!-- <h1 style="text-align: center;">Sensory neuroscience of behaviour lab</h1> -->
+<!-- <br> -->
 
-Welcome to the website of the Ackels lab. The goal of the lab is to answer questions on how mammals use their senses to make behavioral decisions. Please [get in touch](/contact) if you are interested in joining us!  
+Welcome to the website of the Ackels lab. The goal of the lab will be to answer questions on how mammals use their senses to make behavioral decisions. More information on our research and on how to contact us if you are interested in joining us will be coming soon!  
 
-<br>
+<!-- <br>
 <!-- Info from space section -->
 <h2 style="text-align: left;">Information about space from time</h2>
 
@@ -106,4 +106,4 @@ The lab is funded by a Starting Grant (TempCOdE) from the European Research Coun
 </p>
 </td>
 </tr>
-</table>
+</table> -->
