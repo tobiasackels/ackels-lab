@@ -20,8 +20,6 @@ hero_media: ""
 <br>
 
 <h1 style="text-align: center;">Welcome to the website of the  
- <br>
-Ackels lab!  </h1>
 <br>
 {{< figure src="logo.png" >}}
 
