@@ -7,27 +7,27 @@ main:
   - name: Home
     url: /#home
     weight: 10
-  - name: Research
-    url: project
-    weight: 20
-  - name: Publications
-    url: publications
-    weight: 30
-  - name: Positions
-    url: positions
-    weight: 40    
-  - name: People
-    url: people
-    weight: 50    
-  - name: News
-    url: post
-    weight: 60
-  - name: Contact
-    url: contact
-    weight: 70
-  - name: Disclaimer
-    url: disclaimer
-    weight: 80      
+#  - name: Research
+#    url: project
+#    weight: 20
+#  - name: Publications
+#    url: publications
+#    weight: 30
+#  - name: Positions
+#    url: positions
+#    weight: 40    
+#  - name: People
+#    url: people
+#    weight: 50    
+#  - name: News
+#    url: post
+#    weight: 60
+#  - name: Contact
+#    url: contact
+#    weight: 70
+#  - name: Disclaimer
+#    url: disclaimer
+#    weight: 80      
 #  - name: Events
 #    url: event
 #    weight: 40
