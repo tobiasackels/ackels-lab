@@ -19,7 +19,9 @@ hero_media: ""
 <br>
 <br>
 
-<h1 style="text-align: center;">Welcome to the website of the Ackels lab!  </h1>
+<h1 style="text-align: center;">Welcome to the website of the  
+ <br>
+Ackels lab!  </h1>
 <br>
 <br>
 <h3 style="text-align: center;">The goal of the lab will be to answer questions on how mammals use their senses to make behavioral decisions.</h3>
