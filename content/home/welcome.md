@@ -16,7 +16,9 @@ hero_media: ""
 
 <!-- Lab name section -->
 <div align="center">
+
 {{< figure src="lab_name.png">}}
+
 </div>
 <br>
 
@@ -76,6 +78,7 @@ For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https
 
 ## Dr. Tobias Ackels    
 University of Bonn, IEECR  
+
 </div>
 </td>
 
@@ -87,28 +90,22 @@ Tobias was born in Germany and is currently a senior postdoctoral researcher at 
 <font size="3">
 Tobias was awarded an ERC Starting Grant for his project “TempCOdE: Temporally complex odor information encoding” in 2022 and has now started setting up his laboratory as a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) as part of the Medical Faculty at the University of Bonn.  </font>
 </tr>
-</table>
 
-<table style='width: 100%' border='0'>
-
-<tr>
-<td style='width:30%;padding:10px 0px 0px 20px'>
 <table>
 <tr>
-<font size="3">
+ <div style="text-align: center;">
+    <a href="http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf"><i class="ai ai-cv ai-2x"></i></a> &ensp;
+    <a href="https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate"><i class="ai ai-google-scholar ai-2x"></i></a> &ensp;
+    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ackels+t"><i class="ai ai-pubmed ai-2x"></i></a> &ensp;
+    <a href="https://orcid.org/0000-0002-4964-1162"><i class="ai ai-orcid ai-2x"></i></a> &ensp;
+    <a href="https://twitter.com/tobiasackels"><i class="fa-brands fa-twitter fa-2x"></i></a> &ensp;
+    <a href="mailto:ackelsgroup@ieecr-bonn.de"><i class="fa-solid fa-envelope fa-2x"></i></a> &ensp;
+  </div>
 
-{{< icon name="cv" pack="ai">}} [CV](http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf)  
-{{< icon name="google-scholar" pack="ai" >}} [Scholar](https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate)  
-{{< icon name="pubmed" pack="ai" >}} [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=ackels+t)  
-{{< icon name="orcid" pack="ai">}} [ORCID](https://orcid.org/0000-0002-4964-1162)  
-{{< icon name="twitter" pack="fab" >}} [Twitter](https://twitter.com/tobiasackels)  
-{{< icon name="envelope" pack="fas" >}} [Email](mailto:ackelsgroup@ieecr-bonn.de)   
-</font>
 </tr>
 </table>
-</td>
 
-<td style='width:30%;padding:0px 0px 30px 0px'>
+<!-- <td style='width:30%;padding:0px 0px 30px 0px'>
 <font size="5"><strong>Interests</strong></font><br>
 <font size="3">
 
@@ -128,8 +125,7 @@ Drumming
 <font size="2">RWTH Aachen University, Germany</font><br>
 </td>
 </tr>
-</table>
-
+</table> -->
 
 
 <br>
