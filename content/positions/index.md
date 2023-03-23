@@ -1,4 +1,5 @@
 ---
+widget: blank
 title: "Interested in joining the lab?"
 summary: Join the lab.
 date: ""
@@ -15,8 +16,9 @@ header:
 
 design:
   columns: ""
-  css_style: custom
-  css_class: background-color
+  background:
+    color: "#ffffff"
+    
 ---
 
 <!-- # Interested in joining the lab? -->

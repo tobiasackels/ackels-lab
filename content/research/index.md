@@ -27,12 +27,12 @@ header:
 ---
 <font size="5">Cellular and circuit mechanisms underlying complex odour processing in mice</font>
 
-<font size="3">The aim of this project is to gain mechanistic understaning of temporally complex odor processing in the olfactory bulb by perturbing local inhibitory circuitry as well as cortical feedback projections.</font>
+<font size="3">The aim of this project is to gain a mechanistic understanding of temporally complex odor processing in the olfactory bulb by perturbing the local inhibitory circuitry as well as cortical feedback projections.</font>
 
 ---
 <font size="5">Olfactory navigation using complex odor information</font>
 
-<font size="3">The goal of this project is to investigate which temporal features inform odor-guided navigation, an ethologically relevant task, while monitoring the animal’s sampling strategy and recording neural activity in different parts of the olfactory system in freely moving animals.</font>
+<font size="3">Tracking an odor to its source can be of vital importance in the search for food, potential mating partners or to avoid encounters with a predator. The goal of this project is to investigate how temporal features of odor plumes inform odor-guided navigation.</font>
 
 ---
 
@@ -48,8 +48,8 @@ header:
 
 <p style='text-align: justify;'>
 <font size="3"><strong>Odor delivery</strong><p>  
-To present odor stimuli in a controlled and temporally precise manner, we developed a high-speed odor delivery device ("tODD", Ackels <em>et al.</em>, 2021). Temporally complex odor plumes of different chemical identity, concentration and across a range of temporal profiles are presented to animals. Mice are either placed on a treadmill in a head-fixed condition or they are freely moving in a behavioral arena and need to, for example, navigate to the source of an odor.  
-We record the animal's respiration profile to present odor stimuli precisely during a particular time of the respiration cycle, typically triggered to the start inhalation.</font>
+To present odor stimuli in a controlled and temporally precise manner, we developed a high-speed odor delivery device ("tODD", Ackels <em>et al.</em>, 2021). Temporally complex odor plumes of different chemical identity, concentration and across a range of temporal profiles are presented to animals. Mice are, for example, head-fixed on a treadmill where we record the animal's respiration profile to present odor stimuli precisely during a particular time of the respiration cycle, typically triggered to the start inhalation.
+</font>
 
 <td style='width:25%;'>
 <p style="text-align: right">
@@ -75,7 +75,7 @@ We use dual-color 2-Photon Ca<sup>2+</sup> imaging and extracellular probes to r
 <td>  
 <p style='text-align: justify;'>
 <font size="3"><strong>Circuit interrogation</strong><p>
-The mechanisms underlying processing of temporally complex odors both on the neuronal and behavioral level remain unknown. To investigate this, we perturb and manipulate neuronal activity using opto- and chemogenetic techniques. Employing viral vectors in combination with transgenic mouse lines allows us to target specific cell populations during physiology and behavioral experiments.</font>
+The neuronal mechanisms underlying processing of temporally complex odors remain unknown. To investigate this, we perturb and manipulate neuronal activity using opto- and chemogenetic techniques. Employing viral vectors in combination with transgenic mouse lines allows us to target specific cell populations during physiology and behavioral experiments.</font>
 </p>
 </td>
 <td style='width:25%;'>
@@ -89,7 +89,8 @@ The mechanisms underlying processing of temporally complex odors both on the neu
 <td>  
 <p style='text-align: justify;'>
 <font size="3"><strong>Animal behavior</strong><p>
-In an olfactory-guided navigation task, we investigate which features of complex, naturalistic olfactory cues are informative when tracking an odor to its source. In a behavioral arena, animal movement is tracked at high spatial and temporal resolution. In addition, we visualise what the animal smells, record its respiratory sampling strategy and neural activity during the odor localisation task. This approach allows to directly link specific odour events that the animal encounters with navigation parameters such as body speed and head direction, the respiratory sampling strategy, together with neural activity.</font>   
+In an olfactory-guided navigation task, we investigate which features of complex, naturalistic olfactory cues are informative to animals tracking an odor to its source. In a behavioral arena, animal movement is tracked along with the odor profile that it encounters. In addition, we monitor the animal’s respiration strategy and record neural activity in different olfactory brain regions.</font>
+
 </p>
 </td>
 <td style='width:25%;'>
@@ -100,4 +101,3 @@ In an olfactory-guided navigation task, we investigate which features of complex
 </tr>
 
 </table>
-<br>
