@@ -40,6 +40,7 @@ header:
 
 <!-- Methods section  -->
 <h1 style="text-align: left;">Key methods and techniques</h1>
+<br>
 
 <table style='width: 100%' border='0'>
 <tr>
