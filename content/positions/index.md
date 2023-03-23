@@ -29,21 +29,21 @@ Are you curious about how the brain extracts relevant bits from the constant flo
 ### GRADUATE STUDENTS
 PhD projects are available to motivated candidates to help us investigate how temporally complex odors are represented and processed in the brain and how mice use dynamic odor plumes to navigate their environment. For more details, please see the job adverts:  
 
-*  PhD project Physiology: <a href="/uploads/jobs/PhD_advert_physiology_Ackels.pdf" target="_blank">Representation and processing of temporally complex odors</a>  
-*  PhD project Behavior:   <a href="/uploads/jobs/PhD_advert_behavior_Ackels.pdf" target="_blank">Olfactory navigation using dynamic odor plumes</a>  
+*  PhD project Physiology: <a href="/uploads/jobs/PhD_advert_physiology_Ackels_.pdf" target="_blank">Representation and processing of temporally complex odors</a>  
+*  PhD project Behavior:   <a href="/uploads/jobs/PhD_advert_behavior_Ackels_.pdf" target="_blank">Olfactory navigation using dynamic odor plumes</a>  
 
 <br>
 
 ### POSTDOCTORAL RESEARCHER
 We are recruiting a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behavior in our lab. For more details, please see the job advert: 
-*   Job advert: <a href="/uploads/jobs/PD_advert_Ackels.pdf" target="_blank">Postdoctoral Researcher</a>
+*   Job advert: <a href="/uploads/jobs/PD_advert_Ackels_.pdf" target="_blank">Postdoctoral Researcher</a>
 
 <br>
 
 ### TECHNICAL ASSISTANT
 We are currently looking for a laboratory technician to help with colony maintenance, ordering and setting up equipment, bench work, and running neurophysiological and behavioral experiments.
 More information can be found in the job advert. 
-*   Job advert: <a href="/uploads/jobs/TA_advert_Ackels.pdf" target="_blank">Lab Technician</a>
+*   Job advert: <a href="/uploads/jobs/TA_advert_Ackels_.pdf" target="_blank">Lab Technician</a>
 
 <br>
 
