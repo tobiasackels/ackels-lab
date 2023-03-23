@@ -27,7 +27,9 @@ Sensory Dynamics and Behavior Lab
 Institute of Experimental Epilepsy and Cognition Research (IEECR)  
 Venusberg-Campus 1  
 Gebäude 76  
-53127 Bonn, Germany  
+53127 Bonn, Germany
+<br>
+
 [ackelsgroup@ieecr-bonn.de](mailto:ackelsgroup@ieecr-bonn.de)  <br>
 [IEECR website](https://ieecr-bonn.de/)</div>
 <br>
