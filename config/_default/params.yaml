@@ -15,7 +15,7 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: ResearchOrganization
     local_business_type: ''
     org_name: 'Ackels lab'
     description: 'Sensory dynamics and behavior laboratory'
@@ -24,7 +24,7 @@ marketing:
     google_analytics: 'Ackels lab'
     baidu_tongji: ''
   verification:
-    google: 'Ackels lab'
+    google: 'google-site-verification=m4O1-gklU8VtvheWbOgWamq_GQbx55p8QQB0tHQ9G3g'
     baidu: ''
 
 # Site header
