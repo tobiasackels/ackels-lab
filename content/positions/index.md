@@ -23,7 +23,7 @@ design:
 
 ---  
 
-Are you curious about how the brain extracts relevant bits from the constant flow of sensory information we are under? We are actively looking for PhD students, a Postdoc and a lab technician to join the team. All positions are fully funded and supported by our third party funds, including the ERC.  
+Are you curious about how the brain extracts relevant bits from the constant flow of sensory information we are under? We are actively looking for PhD students, a Postdoc and a Technical Assistant to join the team. All positions are fully funded and supported by our third party funds, including the ERC.  
 <br>
 
 ### GRADUATE STUDENTS
@@ -41,11 +41,11 @@ We are recruiting a postdoctoral researcher to drive a project at the frontier o
 <br>
 
 ### TECHNICAL ASSISTANT
-We are currently looking for a laboratory technician to help with colony maintenance, ordering and setting up equipment, bench work, and running neurophysiological and behavioral experiments.
+We are currently looking for a laboratory technician to help with ordering and setting up equipment, colony maintenance, bench work, and running neurophysiological and behavioral experiments.
 More information can be found in the job advert. 
-*   Job advert: <a href="/uploads/jobs/TA_advert_Ackels_.pdf" target="_blank">Lab Technician</a>
+*   Job advert: <a href="/uploads/jobs/TA_advert_Ackels_.pdf" target="_blank">Technical Assistant</a>
 
 <br>
 
 ### UNDERGRADUATES
-Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:ackelsgroup@ieecr-bonn.de) to Dr. Ackels.
+Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:ackelsgroup@ieecr-bonn.de) to Dr. Tobias Ackels.
