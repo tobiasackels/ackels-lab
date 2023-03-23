@@ -98,7 +98,7 @@ Tobias was awarded an ERC Starting Grant for his project “TempCOdE: Temporally
 <font size="3">
 
 {{< icon name="cv" pack="ai">}} [CV](http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf)  
-{{< icon name="google-scholar" pack="ai" >}} [Google scholar](https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate)  
+{{< icon name="google-scholar" pack="ai" >}} [Scholar](https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate)  
 {{< icon name="pubmed" pack="ai" >}} [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=ackels+t)  
 {{< icon name="twitter" pack="fab" >}} [Twitter](https://twitter.com/tobiasackels)  
 {{< icon name="envelope" pack="fas" >}} [Email](mailto:ackelsgroup@ieecr-bonn.de)   
@@ -175,7 +175,7 @@ Drumming
 <td style='width:28.5%;'>
 <div style="text-align:center">
 
-[Institut[e for Experimental Epileptology and Cognition Research]](https://www.ieecr-bonn.de/)
+[Institute for Experimental Epileptology and Cognition Research](https://www.ieecr-bonn.de/)
 </div>
 </td>
 <td style='width:25%;'>
