@@ -8,26 +8,26 @@ main:
     url: /#home
     weight: 10
   - name: Research
-    url: project
+    url: research
     weight: 20
   - name: Publications
     url: publications
     weight: 30
-  - name: Positions
+  - name: Open positions
     url: positions
     weight: 40    
   - name: People
     url: people
     weight: 50    
-  - name: News
-    url: post
-    weight: 60
+  # - name: News
+  #   url: post
+  #   weight: 60
   - name: Contact
-    url: contact
+    url: contact_us
     weight: 70
-  - name: Disclaimer
-    url: disclaimer
-    weight: 80      
+  # - name: Disclaimer
+  #  url: disclaimer
+  #  weight: 80      
 #  - name: Events
 #    url: event
 #    weight: 40

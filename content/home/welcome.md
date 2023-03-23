@@ -1,109 +1,115 @@
 ---
 widget: blank
-widget_id: overview
+widget_id: landing
 headless: true
 weight: 10
 title: ""
-subtitle: Sensory neuroscience of behavior
+subtitle: Sensory dynamics and behaviour lab
 active: true
 design:
-  columns: ""
+  columns: "2"
   css_style: null
   css_class: null
 hero_media: ""
+
 ---
 
-
-<h1 style="text-align: center;">Sensory neuroscience of behaviour lab</h1>
+<!-- Lab name section -->
+<div align="center">
+{{< figure src="lab_name.png">}}
+</div>
 <br>
 
-Welcome to the website of the Ackels lab. The goal of the lab is to answer questions on how mammals use their senses to make behavioral decisions. Please [get in touch](/contact) if you are interested in joining us!  
+---
 
-<br>
-<!-- Info from space section -->
-<h2 style="text-align: left;">Information about space from time</h2>
-
-<table style='width: 100%' border='0'>
-<tr>
- <td>
-
-<p style='text-align: justify;'>
-Sensory input across modalities is highly dynamic, continuously confronting the brain with the task of making sense of the external world. Olfaction is a key sense that many species depend on for survival, for example to locate food sources and mating partners or to avoid encountering predators. In the absence of visual cues, olfactory cues are especially useful, as they provide information over a large range of distances. 
+<!-- Introduction section -->
+<div style="text-align:center"> Welcome to the website of the Ackels lab. Our overarching goal is to answer questions on:  
+<br><em>How are the dynamics of the external world encoded and how do they inform behaviour?</em>
 <p>
-Natural odours form temporally complex plumes that show rapid fluctuations in odour concentration. These temporal dynamics of odours carry spatial information about an odour landscape. This can be of vital importance when navigating an environment, in particular for nocturnal animals such as mice or rats. In a recent paradigm-shift the sense of smell is increasingly acknowledged to be a high-bandwidth modality.  
-</p>
-<p style='text-align: justify;'> 
-Understanding on the cellular, circuit and behavioural level how this spatial information is used by mammals to navigate their environment constitutes one of the primary research question of the lab.
-</p>
 
-</td>
-<td style='width:25%;'>
-<p style="text-align: right">
-{{< figure src="plume_new.png"  title="Odors spread as spatio-temporal complex plumes" >}}
-</p>
-</td>
-</tr>
-</table>
+We are a newly formed lab and are currently hiring at all levels!  
+See our [open positions](/positions) and [get in touch](/contact) if you are interested in joining us! </div>
+
+---
 <br>
 
-<!-- Methods section  -->
-<h2 style="text-align: left;">Key methods and techniques</h2>
+<!-- Info from space section -->
+<h1 style="text-align: center;">Information about space from time</h1>
+<br>
 
-<table style='width: 100%' border='0'>
-<tr>
- <td>
 
-<p style='text-align: justify;'>
-To deliver odor stimuli in a controlled and temporally precise manner, we developed a high-speed odor delivery device ("tODD"). Temporally complex odor plumes of different chemical identity, concentration and across a range of temporal profiles are presented to animals. Mice are either placed on a disk-shaped treadmill or they are freely moving in a behavioral arena and need to, for example, navigate to the source of an odor stimulus.  
-We record the animal's respiration profile to present odour stimuli precisely during a particular time of the respiration cycle, typically triggered to the start inhalation.
+<div style="text-align:justify">
+Sensory input across modalities is highly dynamic, continuously confronting the brain with the task of making sense of the external world. Olfaction is a key sense that many species depend on for survival, for example to locate food sources and mating partners or to avoid encountering predators. In the absence of visual cues, olfactory cues are especially useful, as they provide information over a large range of distances.  
+<p>
 
-<td style='width:25%;'>
-<p style="text-align: right">
-{{< figure src="tODD.png"  title="Fast odor signals from high-speed odor delivery device" >}}
-</p>
-</td>
-</tr>
+Natural odors form temporally complex plumes that show rapid fluctuations in odor concentration. These temporal dynamics carry spatial information about the odor landscape. This can be of vital importance when navigating an environment, in particular for nocturnal animals such as mice or rats. In a recent paradigm-shift the sense of smell is increasingly acknowledged to be a high-bandwidth modality that has access to the complex temporal structure of natural odor plumes.  
 
-<tr>
-<td>  
-<p style='text-align: justify;'>
-We use dual-color 2-Photon Ca2+ imaging and extracellular probes to record neuronal activity from populations of neurons in different parts of the olfactory system. To understand the processing of temporally complex odor stimuli, we use machine learning-based data analysis and computational modelling methods.  
 
-<td style='width:25%;'>
-<p style="text-align: right">
-{{< figure src="physiology.png"  title="Recording neural activity across the olfactory system" >}}
-</p>
-</td>
-</tr>
+<div align="center">
+{{< figure src="plume4.png">}}
+</div>
 
-<tr>
-<td>  
-<p style='text-align: justify;'>
-Perturbing and manipulating neuronal activity using opto- and chemogenetic techniques will allow us to understand the mechanisms underlying processing of temporally complex odors on the neuronal and behavioral level.
-</p>
-</td>
-<td style='width:25%;'>
-<p style="text-align: right">
-{{< figure src="feedback.png"  title="Manipulating feedback projections to the olfactory bulb">}}
-</p>
-</td>
-</tr>
-</table>
+<div style="text-align:justify">
+Understanding how this spatial information is used by mammals to navigate their environment on the cellular, circuit and behavioral level constitutes one of the primary research question of the lab.  
+<p>
+
+For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https://doi.org/10.1038/s41586-021-03514-2); [Marin <em>et al.</em>, 2021](https://doi.org/10.1007/s00441-020-03395-3); [Ackels, 2022](https://doi.org/10.1515/nf-2022-0006)  
+</div>
+<br>
+
+---
 <br>
 
 <!-- Funding section -->
-<h2 style="text-align: left;">Funding</h2>
+<h1 style="text-align: center;">Funding</h1>
+<br>
 
 <table style='width: 100%' border='0'>
 <tr>
- <td>
 
-The lab is funded by a Starting Grant (TempCOdE) from the European Research Council (ERC-StG-2022).
-</td>
-<td style='width:25%;'>
-<p style="text-align: right">
+<td style='width:21.5%;'>
 {{< figure src="logo_erc_sm.png">}}
-</p>
+</td>
+
+<td style='width:25%;'>
+{{< figure src="logo_uk_bonn.png">}}
+<div style="text-align:center">
+</td>
+
+<td style='width:28.5%;'>
+{{< figure src="logo_ieecr.png">}}
+</td>
+
+<td style='width:25%;'>
+{{< figure src="logo_uni_bonn.png">}}
 </td>
 </tr>
+
+<tr>
+<td style='width:21.5%;'>
+<div style="text-align:center">
+
+[European Research Council](https://erc.europa.eu/homepage)
+</div></td>
+
+<td style='width:25%;'>
+<div style="text-align:center">
+
+[University Hospital Bonn](https://www.ukbonn.de/en)
+</div>
+</td>
+
+<td style='width:28.5%;'>
+<div style="text-align:center">
+
+[Institute for Experimental Epileptology and Cognition Research](https://www.ieecr-bonn.de/)
+</div>
+</td>
+<td style='width:25%;'>
+<div style="text-align:center">
+
+[University of Bonn](https://www.uni-bonn.de/)
+</td>
+</tr>
+
 </table>

@@ -2,9 +2,9 @@
 organizations: []
 superuser: false
 authors:
-  - 吳恩達
-title: You as PhD student
-role: PhD student
+  - postdoc
+title: You as a Postdoc
+role: Postdoc
 bio: ""
 interests: []
 social:
@@ -13,9 +13,8 @@ social:
     link: Email
     icon_pack: ai
     icon: Email
-education:
-  courses: []
 email: ""
 user_groups:
-  - Grad Students
+user_groups:
+  - Postdocs
 ---

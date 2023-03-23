@@ -1,59 +1,41 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: contact
-
-# This file represents a page section.
+widget: blank
+widget_id: blank
 headless: true
-
-# Order that this section appears on the page.
 weight: 10
-
-title:
-subtitle:
-
-content:
-  # Contact (edit or remove options as required)
-
-  email: tobias.ackels@gmail.com
-  phone: 888 888 88 88
-  address:
-  # directions: 
-    street: Francis Crick Institute, 1 Midland Road
-    city: London
-    postcode: 'NW1 1AT'
-    country: United Kingdom
-    country_code: UK
-  coordinates:
-    latitude: '51.53175'
-    longitude: '-0.12869'
-  # appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
-
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
-
+title: ""
+subtitle: Sensory dynamics and behaviour lab
+active: true
 design:
-  columns: '2'
+  columns: "2 "
+  css_style: null
+  css_class: null
+hero_media: ""
+
 ---
+# Contact us 
 
-# Contact 
+---  
 
---- 
 
-<!---
-If you want to learn more about the lab, please get in touch by filling the form below! 
----!>
+<br>
+<div style="text-align:left"> 
+
+**Dr. Tobias Ackels**  
+Sensory Dynamics and Behavior Lab  
+Institute of Experimental Epilepsy and Cognition Research  
+Venusberg-Campus 1  
+Gebäude 76  
+53127 Bonn, Germany  
+[ackelsgroup@ieecr-bonn.de](/contact) </div>
+<br>
+
+
+
+<table style='width: 100%' border='0'>
+<tr>
+<!-- <td style='width:50%;'>
+{{< figure src="https://ukbnewsroom.files.wordpress.com/2016/10/lifebrain-jpg-e1477498834223.jpg">}} -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9495.403308350535!2d7.096144914345397!3d50.698734518762876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bee3cddf78744d%3A0xd19786a9c906171d!2sLife%20and%20Brain%20GmbH!5e0!3m2!1sen!2suk!4v1679500031337!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</tr>
+</table>

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Disclaimer"
 summary: Here we describe how to add a page to your site.
 date: ""
 
@@ -16,7 +16,7 @@ header:
 ---
 
 
-# Disclaimer / Impressum
+<!-- # Disclaimer / Impressum -->
 
 ---
 

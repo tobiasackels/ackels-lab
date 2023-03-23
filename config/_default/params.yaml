@@ -8,8 +8,8 @@
 appearance:
   # theme_day: Mr Robot
   theme_night: Mr Robot
-  font: native
-  font_size: M
+  font: minimal
+  font_size: S
 
 # SEO
 
@@ -36,7 +36,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: false
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
@@ -98,7 +98,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 16
 
 # Extensions
 
