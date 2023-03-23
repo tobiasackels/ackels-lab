@@ -92,7 +92,7 @@ Tobias was awarded an ERC Starting Grant for his project “TempCOdE: Temporally
 <table style='width: 100%' border='0'>
 
 <tr>
-<td style='width:30%;padding:20px 5px 0px 50px'>
+<td style='width:30%;padding:0px 5px 0px 50px'>
 <table>
 <tr>
 <font size="3">
