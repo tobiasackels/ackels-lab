@@ -60,6 +60,79 @@ For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https
 ---
 <br>
 
+<!-- PI section -->
+<h1 style="text-align: center;">The Principal Investigator</h1>
+<br>
+
+<table style='width: 100%' border='0'>
+<tr>
+
+<td style='width:30%;'>
+{{< figure src="photo_tobias.jpg">}}  
+<div style="text-align:center">
+
+## Dr. Tobias Ackels  
+Principal Investigator  
+University of Bonn, IEECR  
+The Francis Crick Institute, UK  
+RWTH Aachen University, Germany  
+</div>
+</td>
+
+<td style='width:70%;'>
+<font size="3">
+Tobias was born in Germany and is currently a senior postdoctoral researcher at the Francis Crick Institute in London. He received his Diploma in Biology from RWTH Aachen University, where he also completed his PhD studies in 2015 in the Department of Chemosensation. His doctoral research mainly focused on signalling mechanisms in the olfactory system. Supported by a postdoctoral fellowship from the DFG, he moved to the laboratory of Prof. Andreas Schaefer at the Francis Crick Institute, where his interest lies in the investigation of how natural sensory stimuli are perceived and processed in the mammalian brain on the cellular and network level using physiological and behavioral techniques.  </font>
+<p>
+
+<font size="3">
+Tobias was awarded an ERC Starting Grant for his project “TempCOdE: Temporally complex odor information encoding” in 2022 and has now started to set up his laboratory as a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) as part of the Medical Faculty at the University of Bonn.  </font>
+</tr>
+</table>
+
+<table style='width: 100%' border='0'>
+
+<tr>
+<td style='width:30%;padding:20px 5px 0px 50px'>
+<table>
+<tr>
+<font size="3">
+
+{{< icon name="cv" pack="ai">}} [CV](http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf)  
+{{< icon name="google-scholar" pack="ai" >}} [Google scholar](https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate)  
+{{< icon name="pubmed" pack="ai" >}} [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=ackels+t)  
+{{< icon name="twitter" pack="fab" >}} [Twitter](https://twitter.com/tobiasackels)  
+{{< icon name="envelope" pack="fas" >}} [Email](mailto:ackelsgroup@ieecr-bonn.de)   
+</font>
+</tr>
+</table>
+</td>
+
+<td style='width:30%;padding:0px 10px 0px 0px'>
+<font size="5"><strong>Interests</strong></font><br>
+<font size="3">
+
+Olfaction  
+Sensory neuroscience  
+Family  
+Drumming  
+</td>
+
+<td style='width:35%;'>
+<font size="5"><strong>Education</strong></font><br>
+<font size="3">Postdoctoral Researcher 2015-2023</font><br>
+<font size="2">The Francis Crick Institute, UK</font><br>
+<p>
+
+<font size="3">Ph.D. in Neuroscience, 2015</font><br>
+<font size="2">RWTH Aachen University, Germany</font><br>
+</td>
+</tr>
+</table>
+
+
+
+<br>
+
 <!-- Funding section -->
 <h1 style="text-align: center;">Funding</h1>
 <br>
@@ -102,7 +175,7 @@ For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https
 <td style='width:28.5%;'>
 <div style="text-align:center">
 
-[Institute for Experimental Epileptology and Cognition Research](https://www.ieecr-bonn.de/)
+[Institut[e for Experimental Epileptology and Cognition Research]](https://www.ieecr-bonn.de/)
 </div>
 </td>
 <td style='width:25%;'>
