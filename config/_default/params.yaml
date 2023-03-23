@@ -72,7 +72,7 @@ features:
   repository:
     url: 'https://github.com/tobiasackels/ackels-lab'
     content_dir: content
-    branch: main
+    branch: preview
   avatar:
     gravatar: false
     shape: circle
