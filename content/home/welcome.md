@@ -24,7 +24,7 @@ hero_media: ""
 
 <!-- Introduction section -->
 <div style="text-align:center"> Welcome to the website of the Ackels lab. Our overarching goal is to answer questions on:  
-<br><em>How are the dynamics of the external world encoded and how do they inform behaviour?</em>
+<br><em>How are the dynamics of the external world encoded and how do they inform behavior?</em>
 <p>
 
 We are a newly formed lab and are currently hiring at all levels!  
@@ -50,7 +50,7 @@ Natural odors form temporally complex plumes that show rapid fluctuations in odo
 </div>
 
 <div style="text-align:justify">
-Understanding how this spatial information is used by mammals to navigate their environment on the cellular, circuit and behavioral level constitutes one of the primary research question of the lab.  
+Understanding how this spatial information is used by mammals to navigate their environment on the cellular, circuit and behavioral level constitutes one of the primary research questions of the lab.  
 <p>
 
 For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https://doi.org/10.1038/s41586-021-03514-2); [Marin <em>et al.</em>, 2021](https://doi.org/10.1007/s00441-020-03395-3); [Ackels, 2022](https://doi.org/10.1515/nf-2022-0006)  

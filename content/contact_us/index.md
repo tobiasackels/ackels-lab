@@ -24,11 +24,12 @@ header:
 
 <!-- **Dr. Tobias Ackels**   -->
 Sensory Dynamics and Behavior Lab  
-Institute of Experimental Epilepsy and Cognition Research  
+Institute of Experimental Epilepsy and Cognition Research (IEECR)  
 Venusberg-Campus 1  
 Gebäude 76  
 53127 Bonn, Germany  
-[ackelsgroup@ieecr-bonn.de](/contact) </div>
+[ackelsgroup@ieecr-bonn.de](/contact)  <br>
+[IEECR website](https://ieecr-bonn.de/)</div>
 <br>
 
 

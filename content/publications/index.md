@@ -46,7 +46,7 @@ Marin A.C., Schaefer A.T. and **Ackels T.**
 
 ---
 
-**ORIGINAL PUBLICATIONS** (in chronological order) 
+**ALL PUBLICATIONS** (in chronological order) 
 
 
 DNGR-1 lineage tracing reveals a population of damage-responsive neural stem cells in the central nervous system  
