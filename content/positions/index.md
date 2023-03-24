@@ -26,7 +26,7 @@ design:
 ---  
 
 Are you curious about how the brain extracts relevant bits from the constant flow of sensory information we are under? 
-We are a small and new lab in the midst of the exceptional scientific environment in beautiful Bonn.  
+We are a small, new lab located in the midst of the exceptional scientific community in beautiful Bonn.  
 
 There are several benefits of joining our newly founded lab such as:
 *  You will be working as part of a small team of highly motivated and enthusiastic people in a highly collaborative environment  
