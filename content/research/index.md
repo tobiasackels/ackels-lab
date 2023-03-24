@@ -1,9 +1,4 @@
 ---
-widget: blank
-widget_id: research
-headless: true
-weight: 10
-
 
 title: "Research projects"
 summary: ""
