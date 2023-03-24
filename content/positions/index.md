@@ -18,14 +18,27 @@ design:
   columns: ""
   background:
     color: "#ffffff"
-    
+
 ---
 
 <!-- # Interested in joining the lab? -->
 
 ---  
 
-Are you curious about how the brain extracts relevant bits from the constant flow of sensory information we are under? We are actively looking for PhD students, a Postdoc and a Technical Assistant to join the team. All positions are fully funded and supported by our third party funds, including the ERC.  
+Are you curious about how the brain extracts relevant bits from the constant flow of sensory information we are under? 
+We are a small and new lab in the midst of the exceptional scientific environment in beautiful Bonn.  
+
+There are several benefits of joining our newly founded lab such as:
+*  You will be working as part of a small team of highly motivated and enthusiastic people in a highly collaborative environment  
+*  You will have more 1-on-1 time with the PI  
+*  You will have priviliged access to a wide array of cutting-edge technologies  
+(multi-photon imaging, electrophysiology, optogenetics, behavior etc.)
+*  You will have the opportunity to develop your own research project  
+*  There will be more resources per person  
+*  You will see how an early-stage lab is run which will help with your own future career  
+
+
+We are actively looking for PhD students, a Postdoc and a Technical Assistant to join the team. All positions are fully funded and supported by our third party funds, including the ERC.  
 <br>
 
 ### GRADUATE STUDENTS

@@ -1,6 +1,12 @@
 ---
+widget: blank
+widget_id: research
+headless: true
+weight: 10
+
+
 title: "Research projects"
-summary: Here we describe how to add a page to your site.
+summary: ""
 date: ""
 
 reading_time: false  # Show estimated reading time?
@@ -8,10 +14,16 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+design:
+  background:
+    image: "icon.png"
+    image_darken: 0.5
+    image_size: cover
+    image_parallax: true
+    image_position: center
+    text_color_light: true
+    # Choose a color from the palette: https://sourcethemes.com/academic/docs/customization/#color-palette
+    color: "#000000"  
 
 ---  
 
@@ -46,10 +58,10 @@ header:
 <tr>
  <td>
 
-<p style='text-align: justify;'>
 <font size="3"><strong>Odor delivery</strong><p>  
-To present odor stimuli in a controlled and temporally precise manner, we developed a high-speed odor delivery device ("tODD", Ackels <em>et al.</em>, 2021). Temporally complex odor plumes of different chemical identity, concentration and across a range of temporal profiles are presented to animals. Mice are, for example, head-fixed on a treadmill where we record the animal's respiration profile to present odor stimuli precisely during a particular time of the respiration cycle, typically triggered to the start inhalation.
-</font>
+<p style='text-align: justify;'>
+To present odor stimuli in a controlled and temporally precise manner, we developed a high-speed odor delivery device ("tODD", Ackels <em>et al.</em>, 2021). Temporally complex odor plumes of different chemical identity, concentration and across a range of temporal profiles are presented to animals. Mice are, for example, head-fixed on a treadmill where we record the animal's respiration profile to present odor stimuli precisely during a particular time of the respiration cycle, typically triggered to the start inhalation.</font>
+</p>
 
 <td style='width:25%;'>
 <p style="text-align: right">
@@ -60,10 +72,10 @@ To present odor stimuli in a controlled and temporally precise manner, we develo
 
 <tr>
 <td>  
-<p style='text-align: justify;'>
 <font size="3"><strong>Recording neural activity</strong><p>
+<p style='text-align: justify;'>
 We use dual-color 2-Photon Ca<sup>2+</sup> imaging and extracellular probes to record neuronal activity from populations of neurons in different parts of the olfactory system. To understand how temporally complex odor stimuli are respresented and processed, we analyse neural activity on a single cell and population level, and use machine learning-based data analysis together with computational modelling methods.</font>  
-
+</p>
 <td style='width:25%;'>
 <p style="text-align: right">
 {{< figure src="physiology.png">}}
@@ -73,8 +85,8 @@ We use dual-color 2-Photon Ca<sup>2+</sup> imaging and extracellular probes to r
 
 <tr>
 <td>  
-<p style='text-align: justify;'>
 <font size="3"><strong>Circuit interrogation</strong><p>
+<p style='text-align: justify;'>
 The neuronal mechanisms underlying processing of temporally complex odors remain unknown. To investigate this, we perturb and manipulate neuronal activity using opto- and chemogenetic techniques. Employing viral vectors in combination with transgenic mouse lines allows us to target specific cell populations during physiology and behavioral experiments.</font>
 </p>
 </td>
@@ -87,8 +99,8 @@ The neuronal mechanisms underlying processing of temporally complex odors remain
 
 <tr>
 <td>  
-<p style='text-align: justify;'>
 <font size="3"><strong>Animal behavior</strong><p>
+<p style='text-align: justify;'>
 In an olfactory-guided navigation task, we investigate which features of complex, naturalistic olfactory cues are informative to animals tracking an odor to its source. In a behavioral arena, animal movement is tracked along with the odor profile that it encounters. In addition, we monitor the animal’s respiration strategy and record neural activity in different olfactory brain regions.</font>
 
 </p>

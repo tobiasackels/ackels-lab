@@ -38,13 +38,21 @@ See our [open positions](/positions) and [get in touch](/contact) if you are int
 ---
 <br>
 
+
+<h1 style="text-align: center;">Making sense of the world</h1>
+<br>
+<div style="text-align:justify">
+Sensory input across modalities is highly dynamic and continuously confronts the brain with the task of making sense of the external world. This is particularly true for sensory systems that are subjected to a high amount of information. How does the brain do this? How does it use this information to make decisions?  
+</div>
+<br>
+
 <!-- Info from space section -->
 <h1 style="text-align: center;">Information about space from time</h1>
 <br>
 
 
 <div style="text-align:justify">
-Sensory input across modalities is highly dynamic and continuously confronts the brain with the task of making sense of the external world. Olfaction is a key sense that many species depend on for survival, for example to locate food sources and mating partners or to avoid encountering predators. Olfactory cues are especially useful, as they provide information over a large range of distances, in the absence of visual cues.  
+Olfaction is a key sense that many species depend on for survival, for example to locate food sources and mating partners or to avoid encountering predators. Olfactory cues are especially useful, as they provide information over a large range of distances, in the absence of visual cues.  
 <p>
 
 Natural odors form temporally complex plumes that are characterised by rapid fluctuations in odor concentration. The complex temporal dynamics of odor plumes carry spatial information about the odor landscape. They may form a vital sensory component for animals navigating an environment, particularly for nocturnal animals such as mice or rats. The sense of smell is thus being increasingly acknowledged to be a high-bandwidth modality that has access to the complex temporal structure of natural odor plumes, creating a paradigm-shift in olfactory sensory neuroscience.  
