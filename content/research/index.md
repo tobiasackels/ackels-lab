@@ -14,17 +14,6 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-design:
-  background:
-    image: "icon.png"
-    image_darken: 0.5
-    image_size: cover
-    image_parallax: true
-    image_position: center
-    text_color_light: true
-    # Choose a color from the palette: https://sourcethemes.com/academic/docs/customization/#color-palette
-    color: "#000000"  
-
 ---  
 
 
