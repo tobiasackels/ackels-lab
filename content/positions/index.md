@@ -25,6 +25,10 @@ design:
 
 ---  
 
+## Job adverts will be posted here soon!
+
+<br>
+
 Are you curious about how the brain extracts relevant bits from the constant flow of sensory information we are under? 
 We are a small, new lab located in the midst of the exceptional scientific community in beautiful Bonn.  
 
@@ -41,7 +45,8 @@ There are several benefits of joining our newly founded lab such as:
 We are actively looking for PhD students, a Postdoc and a Technical Assistant to join the team. All positions are fully funded and supported by our third party funds, including the ERC.  
 <br>
 
-### GRADUATE STUDENTS
+
+<!-- ### GRADUATE STUDENTS
 PhD projects are available to motivated candidates to help us investigate how temporally complex odors are represented and processed in the brain and how mice use dynamic odor plumes to navigate their environment. For more details, please see the job adverts:  
 
 *  PhD project Physiology: <a href="/uploads/jobs/PhD_advert_physiology_Ackels_.pdf" target="_blank">Representation and processing of temporally complex odors</a>  
@@ -63,4 +68,4 @@ More information can be found in the job advert.
 <br>
 
 ### UNDERGRADUATES
-Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:ackelsgroup@ieecr-bonn.de) to Dr. Tobias Ackels.
+Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:ackelsgroup@ieecr-bonn.de) to Dr. Tobias Ackels. -->
