@@ -4,7 +4,7 @@ widget_id: landing
 headless: true
 weight: 10
 title: ""
-subtitle: Sensory dynamics and behaviour lab
+subtitle: Sensory Dynamics and Behaviour Lab
 active: true
 design:
   columns: "2"
@@ -25,7 +25,7 @@ hero_media: ""
 ---
 
 <!-- Introduction section -->
-<div style="text-align:center"> Welcome to the website of the Ackels lab. Our overarching goal is to answer questions on how the dynamics of the external world are encoded in the brain and how they inform behavior.
+<div style="text-align:center"> Welcome to the website of the Ackels lab. Our overarching goal is to answer questions on how the dynamics of the external world are encoded in the brain and how they inform behaviour.
 <p>
 
 <div align="center">
@@ -55,7 +55,7 @@ Sensory input across modalities is highly dynamic and continuously confronts the
 Olfaction is a key sense that many species depend on for survival, for example to locate food sources and mating partners or to avoid encountering predators. Olfactory cues are especially useful, as they provide information over a large range of distances, in the absence of visual cues.  
 <p>
 
-Natural odors form temporally complex plumes that are characterised by rapid fluctuations in odor concentration. The complex temporal dynamics of odor plumes carry spatial information about the odor landscape. They may form a vital sensory component for animals navigating an environment, particularly for nocturnal animals such as mice or rats. The sense of smell is thus being increasingly acknowledged to be a high-bandwidth modality that has access to the complex temporal structure of natural odor plumes, creating a paradigm-shift in olfactory sensory neuroscience.  
+Natural odours form temporally complex plumes that are characterised by rapid fluctuations in odour concentration. The complex temporal dynamics of odour plumes carry spatial information about the odour landscape. They may form a vital sensory component for animals navigating an environment, particularly for nocturnal animals such as mice or rats. The sense of smell is thus being increasingly acknowledged to be a high-bandwidth modality that has access to the complex temporal structure of natural odour plumes, creating a paradigm-shift in olfactory sensory neuroscience.  
 
 
 <div align="center">
@@ -63,7 +63,7 @@ Natural odors form temporally complex plumes that are characterised by rapid flu
 </div>
 
 <div style="text-align:justify">
-Understanding how the spatial information caried by odor plumes is used by mammals to navigate their environment on the cellular, circuit and behavioral level constitutes one of the primary research focus of the lab.  
+Understanding how the spatial information caried by odour plumes is used by mammals to navigate their environment on the cellular, circuit and behavioural level constitutes one of the primary research focus of the lab.  
 <p>
 
 For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https://doi.org/10.1038/s41586-021-03514-2); [Marin <em>et al.</em>, 2021](https://doi.org/10.1007/s00441-020-03395-3); [Ackels, 2022](https://doi.org/10.1515/nf-2022-0006)  
@@ -92,11 +92,11 @@ University of Bonn, IEECR
 
 <td style='width:70%;'>
 <font size="3">
-Tobias was born in Germany and is currently a senior postdoctoral researcher at the Francis Crick Institute in London. He received his Diploma in Biology from RWTH Aachen University, where he also completed his PhD studies in 2015 in the Department of Chemosensation. His doctoral research mainly focused on signalling mechanisms in the olfactory system. Supported by a postdoctoral fellowship from the DFG, he moved to the laboratory of Prof. Andreas Schaefer at the Francis Crick Institute. His interest lies in the investigation of how naturalistic sensory stimuli are perceived and processed in the mammalian brain on the cellular and network level using physiological and behavioral techniques.  </font>
+Tobias was born in Germany and is currently a senior postdoctoral researcher at the Francis Crick Institute in London. He received his Diploma in Biology from RWTH Aachen University, where he also completed his PhD studies in 2015 in the Department of Chemosensation. His doctoral research mainly focused on signalling mechanisms in the olfactory system. Supported by a postdoctoral fellowship from the DFG, he moved to the laboratory of Prof. Andreas Schaefer at the Francis Crick Institute. His interest lies in the investigation of how naturalistic sensory stimuli are perceived and processed in the mammalian brain on the cellular and network level using physiological and behavioural techniques.  </font>
 <p>
 
 <font size="3">
-Tobias was awarded an ERC Starting Grant for his project “TempCOdE: Temporally complex odor information encoding” in 2022 and has now started setting up his laboratory as a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) as part of the Medical Faculty at the University of Bonn.  </font>
+Tobias was awarded an ERC Starting Grant for his project “TempCOdE: Temporally complex odour information encoding” in 2022 and has now started setting up his laboratory as a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) as part of the Medical Faculty at the University of Bonn.  </font>
 </tr>
 
 <table>
