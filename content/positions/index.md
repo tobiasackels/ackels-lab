@@ -25,7 +25,7 @@ design:
 
 ---  
 
-## PLease get in touch! Full job listings will be posted here soon!
+## Please get in touch! Full job listings will be posted here soon!
 
 <br>
 
