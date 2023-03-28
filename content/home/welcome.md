@@ -138,8 +138,8 @@ Drumming
 
 <br>
 
-<!-- Funding section -->
-<h1 style="text-align: center;">Funding</h1>
+<!-- Support section -->
+<h1 style="text-align: center;">Support</h1>
 <br>
 
 <table style='width: 100%' border='0'>

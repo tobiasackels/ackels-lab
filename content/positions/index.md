@@ -25,7 +25,7 @@ design:
 
 ---  
 
-## Job adverts will be posted here soon!
+## PLease get in touch! Full job listings will be posted here soon!
 
 <br>
 
@@ -35,7 +35,7 @@ We are a small, new lab located in the midst of the exceptional scientific commu
 There are several benefits of joining our newly founded lab such as:
 *  You will be working as part of a small team of highly motivated and enthusiastic people in a highly collaborative environment  
 *  You will have more 1-on-1 time with the PI  
-*  You will have priviliged access to a wide array of cutting-edge technologies  
+*  You will have privileged access to a wide array of cutting-edge technologies  
 (multi-photon imaging, electrophysiology, optogenetics, behavior etc.)
 *  You will have the opportunity to develop your own research project  
 *  There will be more resources per person  
