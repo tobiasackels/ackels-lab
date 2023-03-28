@@ -3,12 +3,11 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
 
-
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 1
 
 title: Meet the Team
 subtitle:
@@ -31,6 +30,15 @@ design:
   show_latest: false
   columns: '2'
 
+
+
 ---
 
 ---
+
+
+List collaborators in people section (ask before!)
+Local environment / labs
+DFG Network
+Andreas
+Maybe Bonsai
