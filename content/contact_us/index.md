@@ -30,8 +30,10 @@ Gebäude 76
 53127 Bonn, Germany
 <br>
 
-[ackelsgroup@ieecr-bonn.de](mailto:ackelsgroup@ieecr-bonn.de)  <br>
-[IEECR website](https://ieecr-bonn.de/)</div>
+[ackelsgroup@ieecr-bonn.de](mailto:ackelsgroup@ieecr-bonn.de) &ensp; &ensp;
+<a href="https://twitter.com/AckelsLab" target="_blank"><i class="fa-brands fa-twitter fa-2x"></i></a> &ensp;  
+[IEECR website](https://ieecr-bonn.de/)</div>  
+
 <br>
 
 
