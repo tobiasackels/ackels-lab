@@ -4,7 +4,7 @@ widget_id: overview
 headless: true
 weight: 10
 title: "test"
-subtitle: Sensory neuroscience of behavior
+subtitle: Sensory Dynamics and Behaviour lab
 active: false
 design:
   columns: ""
