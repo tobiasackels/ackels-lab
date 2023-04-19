@@ -23,7 +23,7 @@ header:
 <div style="text-align:left"> 
 
 <!-- **Dr. Tobias Ackels**   -->
-Sensory Dynamics and Behavior Lab  
+Sensory Dynamics and Behaviour Lab  
 Institute of Experimental Epilepsy and Cognition Research (IEECR)  
 University of Bonn Medical Center  
 Life and Brain Center (Building 76)  
