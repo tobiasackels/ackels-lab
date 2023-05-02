@@ -40,14 +40,14 @@ There are several benefits of joining our newly founded lab such as:
 *  You will see how an early-stage lab is run which will help with your own future career  
 
 
-We are actively looking for PhD students and a Postdoc to join the team. All positions are fully funded and supported by our third party funds, including the ERC.  
+We are actively looking for PhD a student and a Postdoc to join the team. All positions are fully funded and supported by our third party funds, including the ERC.  
 <br>
 
 
-### GRADUATE STUDENTS
+### GRADUATE STUDENT
 PhD projects are available to motivated candidates to help us investigate how temporally complex odours are represented and processed in the brain and how mice use dynamic odour plumes to navigate their environment. For more details, please see the job adverts:  
 
-*  PhD project Physiology: <a href="https://karriereamukb.de/offer/phd-candidate-m-f-d-institute-of-ex/4a45919e-ab5e-4239-ac41-0ac95ee8052c" target="_blank">Representation and processing of temporally complex odours</a>  
+*  PhD project: <a href="https://karriereamukb.de/offer/phd-candidate-m-f-d-institute-of-ex/4a45919e-ab5e-4239-ac41-0ac95ee8052c" target="_blank">Representation and processing of temporally complex odours</a>  
 <!-- *  PhD project Behaviour:   <a href="/uploads/jobs/PhD_advert_behaviour_Ackels_.pdf" target="_blank">Olfactory navigation using dynamic odour plumes</a>   -->
 
 <br>
