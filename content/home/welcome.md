@@ -63,7 +63,7 @@ Natural odours form temporally complex plumes that are characterised by rapid fl
 </div>
 
 <div style="text-align:justify">
-Understanding how the spatial information caried by odour plumes is used by mammals to navigate their environment on the cellular, circuit and behavioural level constitutes the primary research focus of the lab.  
+Understanding how the spatial information carried by odour plumes is used by mammals to navigate their environment on the cellular, circuit and behavioural level constitutes the primary research focus of the lab.  
 <p>
 
 For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https://doi.org/10.1038/s41586-021-03514-2); [Marin <em>et al.</em>, 2021](https://doi.org/10.1007/s00441-020-03395-3); [Ackels, 2022](https://doi.org/10.1515/nf-2022-0006)  
