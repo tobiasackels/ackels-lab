@@ -45,7 +45,7 @@ We are actively looking for PhD a student and a Postdoc to join the team. All po
 
 
 ### GRADUATE STUDENT
-PhD projects are available to motivated candidates to help us investigate how temporally complex odours are represented and processed in the brain and how mice use dynamic odour plumes to navigate their environment. For more details, please see the job adverts:  
+PhD projects are available to motivated candidates to help us investigate how temporally complex odours are represented and processed in the brain and how mice use dynamic odour plumes to navigate their environment. For more details, please see the job advert:  
 
 *  PhD project: <a href="https://karriereamukb.de/offer/phd-candidate-m-f-d-institute-of-ex/4a45919e-ab5e-4239-ac41-0ac95ee8052c" target="_blank">Representation and processing of temporally complex odours</a>  
 <!-- *  PhD project Behaviour:   <a href="/uploads/jobs/PhD_advert_behaviour_Ackels_.pdf" target="_blank">Olfactory navigation using dynamic odour plumes</a>   -->
