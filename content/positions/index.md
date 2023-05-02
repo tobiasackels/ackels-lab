@@ -49,20 +49,18 @@ PhD projects are available to motivated candidates to help us investigate how te
 
 *  PhD project: <a href="https://karriereamukb.de/offer/phd-candidate-m-f-d-institute-of-ex/4a45919e-ab5e-4239-ac41-0ac95ee8052c" target="_blank">Representation and processing of temporally complex odours</a>  
 <!-- *  PhD project Behaviour:   <a href="/uploads/jobs/PhD_advert_behaviour_Ackels_.pdf" target="_blank">Olfactory navigation using dynamic odour plumes</a>   -->
-
 <br>
 
 ### POSTDOCTORAL RESEARCHER
 We are recruiting a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. For more details, please see the job advert: 
 *   Job advert: <a href="https://karriereamukb.de/offer/postdoctoral-researcher-m-f-d-insti/2e65ce6b-586f-459b-a9b5-71ba5cd2aad5" target="_blank">Postdoctoral Researcher</a>
 
-<br>
+<!-- <br> -->
 <!-- 
 ### TECHNICAL ASSISTANT
 We are currently looking for a laboratory technician to help with ordering and setting up equipment, colony maintenance, bench work, and running neurophysiological and behavioural experiments.
 More information can be found in the job advert. 
 *   Job advert: <a href="/uploads/jobs/TA_advert_Ackels_.pdf" target="_blank">Technical Assistant</a> -->
-
 <br>
 
 ### UNDERGRADUATES
