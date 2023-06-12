@@ -41,7 +41,7 @@ There are several benefits of joining our newly founded lab such as:
 
 
 We are actively looking for PhD a student and a Postdoc to join the team. All positions are fully funded and supported by our third party funds, including the ERC.  
-<br>
+<!-- <br>
 
 
 ### GRADUATE STUDENT
@@ -52,8 +52,8 @@ PhD projects are available to motivated candidates to help us investigate how te
 <br>
 
 ### POSTDOCTORAL RESEARCHER
-We are recruiting a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. For more details, please see the job advert: 
-*   Job advert: <a href="https://karriereamukb.de/offer/postdoctoral-researcher-m-f-d-insti/2e65ce6b-586f-459b-a9b5-71ba5cd2aad5" target="_blank">Postdoctoral Researcher</a> [[PDF]](https://ackelslab.com/uploads/jobs/Postdoc_EPI_Ackels_318_2023e.pdf) 
+We are interested in recruitung a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. Please get in touch if you are interested in joining the lab! 
+<!-- *  Job advert: <a href="https://karriereamukb.de/offer/postdoctoral-researcher-m-f-d-insti/2e65ce6b-586f-459b-a9b5-71ba5cd2aad5" target="_blank">Postdoctoral Researcher</a> [[PDF]](https://ackelslab.com/uploads/jobs/Postdoc_EPI_Ackels_318_2023e.pdf)  -->
 
 <!-- <br> -->
 <!-- 
@@ -61,7 +61,7 @@ We are recruiting a postdoctoral researcher to drive a project at the frontier o
 We are currently looking for a laboratory technician to help with ordering and setting up equipment, colony maintenance, bench work, and running neurophysiological and behavioural experiments.
 More information can be found in the job advert. 
 *   Job advert: <a href="/uploads/jobs/TA_advert_Ackels_.pdf" target="_blank">Technical Assistant</a> -->
-<br>
+<br> -->
 
 ### UNDERGRADUATES
 Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:ackelsgroup@ieecr-bonn.de) to Dr. Tobias Ackels.
