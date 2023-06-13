@@ -49,10 +49,10 @@ PhD projects are available to motivated candidates to help us investigate how te
 
 *  PhD project: <a href="https://karriereamukb.de/offer/phd-candidate-m-f-d-institute-of-ex/4a45919e-ab5e-4239-ac41-0ac95ee8052c" target="_blank">Representation and processing of temporally complex odours</a> [[PDF]](https://ackelslab.com/uploads/jobs/PhD_EPI_Ackels_317_2023e.pdf)
 <!-- *  PhD project Behaviour:   <a href="/uploads/jobs/PhD_advert_behaviour_Ackels_.pdf" target="_blank">Olfactory navigation using dynamic odour plumes</a>   -->
-<br>
+<!-- <br>
 
 ### POSTDOCTORAL RESEARCHER
-We are interested in recruitung a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. Please get in touch if you are interested in joining the lab! 
+We are interested in recruitung a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. Please get in touch if you are interested in joining the lab!  -->
 <!-- *  Job advert: <a href="https://karriereamukb.de/offer/postdoctoral-researcher-m-f-d-insti/2e65ce6b-586f-459b-a9b5-71ba5cd2aad5" target="_blank">Postdoctoral Researcher</a> [[PDF]](https://ackelslab.com/uploads/jobs/Postdoc_EPI_Ackels_318_2023e.pdf)  -->
 
 <!-- <br> -->
@@ -61,7 +61,7 @@ We are interested in recruitung a postdoctoral researcher to drive a project at 
 We are currently looking for a laboratory technician to help with ordering and setting up equipment, colony maintenance, bench work, and running neurophysiological and behavioural experiments.
 More information can be found in the job advert. 
 *   Job advert: <a href="/uploads/jobs/TA_advert_Ackels_.pdf" target="_blank">Technical Assistant</a> -->
-<br> -->
+<br>
 
 ### UNDERGRADUATES
 Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:ackelsgroup@ieecr-bonn.de) to Dr. Tobias Ackels.
