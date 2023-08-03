@@ -149,43 +149,43 @@ Drumming
 <table style='width: 100%' border='0'>
 <tr>
 
-<td style='width:21.5%;'>
+<td style='width:20%;'>
 {{< figure src="logo_erc_sm.png">}}
 </td>
 
-<td style='width:25%;'>
+<td style='width:20%;'>
 {{< figure src="logo_uk_bonn.png">}}
 <div style="text-align:center">
 </td>
 
-<td style='width:28.5%;'>
+<td style='width:23.5%;'>
 {{< figure src="logo_ieecr.png">}}
 </td>
 
-<td style='width:22%;'>
+<td style='width:20%;'>
 {{< figure src="logo_uni_bonn.png">}}
 </td>
 
-<td style='width:28%;'>
+<td style='width:20%;'>
 {{< figure src="logo_imprs.png">}}
 </td>
 </tr>
 
 <tr>
-<td style='width:21.5%;'>
+<td style='width:20%;'>
 <div style="text-align:center">
 
 [European Research Council](https://erc.europa.eu/homepage)
 </div></td>
 
-<td style='width:25%;'>
+<td style='width:20%;'>
 <div style="text-align:center">
 
 [University Hospital Bonn](https://www.ukbonn.de/en)
 </div>
 </td>
 
-<td style='width:28.5%;'>
+<td style='width:23.5%;'>
 <div style="text-align:center">
 
 [Institute for Experimental Epileptology and Cognition Research](https://www.ieecr-bonn.de/)
@@ -198,7 +198,7 @@ Drumming
 </div>
 </td>
 
-<td style='width:28%;'>
+<td style='width:20%;'>
 <div style="text-align:center">
 
 [IMPRS for Brain and Behavior](https://imprs-brain-behavior.mpg.de/)
