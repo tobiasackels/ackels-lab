@@ -149,7 +149,7 @@ Drumming
 <table style='width: 100%' border='0'>
 <tr>
 
-<td style='width:18%;'>
+<td style='width:17.5%;'>
 {{< figure src="logo_erc_sm.png">}}
 </td>
 
@@ -166,7 +166,7 @@ Drumming
 {{< figure src="logo_uni_bonn.png">}}
 </td>
 
-<td style='width:20%;'>
+<td style='width:22%;'>
 {{< figure src="logo_imprs.png">}}
 </td>
 </tr>
