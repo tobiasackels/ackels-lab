@@ -163,6 +163,11 @@ Drumming
 </td>
 </tr>
 
+<td style='width:25%;'>
+{{< figure src="logo_imprs.png">}}
+</td>
+</tr>
+
 <tr>
 <td style='width:21.5%;'>
 <div style="text-align:center">
@@ -187,6 +192,12 @@ Drumming
 <div style="text-align:center">
 
 [University of Bonn](https://www.uni-bonn.de/)
+</td>
+</tr>
+
+<td style='width:25%;'>
+<div style="text-align:center">
+[IMPRS for Brain and Behavior](https://imprs-brain-behavior.mpg.de/)
 </td>
 </tr>
 
