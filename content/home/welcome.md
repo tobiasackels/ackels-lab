@@ -196,8 +196,8 @@ Drumming
 <div style="text-align:center">
 
 [University of Bonn](https://www.uni-bonn.de/)
+</div>
 </td>
-</tr>
 
 <td style='width:25%;'>
 <div style="text-align:center">
