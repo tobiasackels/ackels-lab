@@ -149,7 +149,7 @@ Drumming
 <table style='width: 100%' border='0'>
 <tr>
 
-<td style='width:17.5%;'>
+<td style='width:16.5%;'>
 {{< figure src="logo_erc_sm.png">}}
 </td>
 
@@ -166,19 +166,19 @@ Drumming
 {{< figure src="logo_uni_bonn.png">}}
 </td>
 
-<td style='width:22%;'>
+<td style='width:24%;'>
 {{< figure src="logo_imprs.png">}}
 </td>
 </tr>
 
 <tr>
-<td style='width:20%;'>
+<td style='width:17.5%;'>
 <div style="text-align:center">
 
 [European Research Council](https://erc.europa.eu/homepage)
 </div></td>
 
-<td style='width:22%;'>
+<td style='width:20%;'>
 <div style="text-align:center">
 
 [University Hospital Bonn](https://www.ukbonn.de/en)
@@ -198,7 +198,7 @@ Drumming
 </div>
 </td>
 
-<td style='width:20%;'>
+<td style='width:22%;'>
 <div style="text-align:center">
 
 [IMPRS for Brain and Behavior](https://imprs-brain-behavior.mpg.de/)
