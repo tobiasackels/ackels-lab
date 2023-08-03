@@ -149,7 +149,7 @@ Drumming
 <table style='width: 100%' border='0'>
 <tr>
 
-<td style='width:20%;'>
+<td style='width:18%;'>
 {{< figure src="logo_erc_sm.png">}}
 </td>
 
@@ -178,7 +178,7 @@ Drumming
 [European Research Council](https://erc.europa.eu/homepage)
 </div></td>
 
-<td style='width:20%;'>
+<td style='width:22%;'>
 <div style="text-align:center">
 
 [University Hospital Bonn](https://www.ukbonn.de/en)
