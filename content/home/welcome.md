@@ -84,7 +84,7 @@ For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https
 {{< figure src="photo_tobias.jpg">}}  
 <div style="text-align:center">
 
-## Dr. Tobias Ackels    
+## Prof. Dr. Tobias Ackels    
 University of Bonn, IEECR  
 
 </div>
