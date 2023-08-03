@@ -172,7 +172,7 @@ Drumming
 </tr>
 
 <tr>
-<td style='width:17.5%;'>
+<td style='width:16.5%;'>
 <div style="text-align:center">
 
 [European Research Council](https://erc.europa.eu/homepage)
