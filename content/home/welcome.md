@@ -165,7 +165,6 @@ Drumming
 <td style='width:25%;'>
 {{< figure src="logo_uni_bonn.png">}}
 </td>
-</tr>
 
 <td style='width:25%;'>
 {{< figure src="logo_imprs.png">}}
