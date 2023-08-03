@@ -23,12 +23,12 @@ header:
 Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 
 Tobias Ackels  
-Sensory Dynamics and Behaviour
-Institute of Experimental Epileptology and Cognition Research
-University of Bonn Medical Center
-Life and Brain Center (Building 76)
-Venusberg-Campus 1
-53127 Bonn
+Sensory Dynamics and Behaviour  
+Institute of Experimental Epileptology and Cognition Research  
+University of Bonn Medical Center  
+Life and Brain Center (Building 76)  
+Venusberg-Campus 1  
+53127 Bonn  
 
 Disclaimer – rechtliche Hinweise  
 § 1 Warnhinweis zu Inhalten
