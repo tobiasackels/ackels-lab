@@ -162,11 +162,11 @@ Drumming
 {{< figure src="logo_ieecr.png">}}
 </td>
 
-<td style='width:25%;'>
+<td style='width:22%;'>
 {{< figure src="logo_uni_bonn.png">}}
 </td>
 
-<td style='width:25%;'>
+<td style='width:28%;'>
 {{< figure src="logo_imprs.png">}}
 </td>
 </tr>
@@ -191,14 +191,14 @@ Drumming
 [Institute for Experimental Epileptology and Cognition Research](https://www.ieecr-bonn.de/)
 </div>
 </td>
-<td style='width:25%;'>
+<td style='width:20%;'>
 <div style="text-align:center">
 
 [University of Bonn](https://www.uni-bonn.de/)
 </div>
 </td>
 
-<td style='width:25%;'>
+<td style='width:28%;'>
 <div style="text-align:center">
 
 [IMPRS for Brain and Behavior](https://imprs-brain-behavior.mpg.de/)
