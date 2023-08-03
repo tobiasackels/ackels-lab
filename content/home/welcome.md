@@ -96,7 +96,11 @@ Tobias was born in Germany and has just started to set up his laboratory as a gr
 <p>
 
 <font size="3">
-Tobias did his postdoc at the Francis Crick Institute in London. He received his Diploma in Biology from RWTH Aachen University, where he also completed his PhD studies in 2015 in the Department of Chemosensation. His doctoral research mainly focused on signalling mechanisms in the olfactory system. Supported by a postdoctoral fellowship from the DFG, he moved to the laboratory of Prof. Andreas Schaefer at the Francis Crick Institute, invigorating his interest in the investigation of how natural sensory stimuli are perceived and processed in the mammalian brain. He investigates these mechanisms on the cellular and network level using physiological and behavioral techniques.  </font>
+Tobias did his postdoc at the Francis Crick Institute in London. He received his Diploma in Biology from RWTH Aachen University, where he also completed his PhD studies in 2015 in the Department of Chemosensation. His doctoral research mainly focused on signalling mechanisms in the olfactory system. Supported by a postdoctoral fellowship from the DFG, he moved to the laboratory of Prof. Andreas Schaefer at the Francis Crick Institute, invigorating his interest in the investigation of how natural sensory stimuli are perceived and processed in the mammalian brain.  </font>
+<p>
+
+<font size="3">
+His laboratory investigates these mechanisms on the cellular and network level using physiological and behavioral techniques.  </font>
 </tr>
 
 <table>
