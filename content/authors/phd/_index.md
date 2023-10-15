@@ -3,8 +3,9 @@ organizations: []
 superuser: false
 authors:
   - phd
-title: You as a PhD student
+title: Anantu Sunil
 role: "PhD student"
+avatar_filename: photo_anantu.jpg
 bio: ""
 interests: []
 social:
