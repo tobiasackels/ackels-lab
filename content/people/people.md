@@ -35,10 +35,3 @@ design:
 ---
 
 ---
-
-
-<!-- List collaborators in people section (ask before!)
-Local environment / labs
-DFG Network
-Andreas
-Maybe Bonsai -->
