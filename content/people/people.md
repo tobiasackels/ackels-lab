@@ -18,9 +18,9 @@ content:
   user_groups:
     - Principal Investigator
     - PhD students
+    - Undergraduates    
     - Postdocs
     - Lab technician
-    - Undergraduates
     - Alumni
 design:
   show_interests: false
