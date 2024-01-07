@@ -2,10 +2,10 @@
 organizations: []
 superuser: false
 authors:
-  - Neelam
-title: Neelam Bhattarai
+  - Linda
+title: Linda Loenneker
 role: "MSc student"
-avatar_filename: photo_neelam.jpg
+avatar_filename: photo_linda.jpg
 bio: ""
 interests: []
 social:
