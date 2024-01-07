@@ -81,7 +81,7 @@ For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https
 <tr>
 
 <td style='width:30%;'>
-{{< figure src="photo_tobias.jpg">}}  
+{{< figure src="photo_tobias2.jpg">}}  
 <div style="text-align:center">
 
 ## Prof. Dr. Tobias Ackels    
@@ -111,7 +111,7 @@ His laboratory investigates these mechanisms on the cellular and network level u
     <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ackels+t" target="_blank"><i class="ai ai-pubmed ai-2x"></i></a> &ensp;
     <a href="https://orcid.org/0000-0002-4964-1162" target="_blank"><i class="ai ai-orcid ai-2x"></i></a> &ensp;
     <a href="https://twitter.com/tobiasackels" target="_blank"><i class="fa-brands fa-twitter fa-2x"></i></a> &ensp;
-    <a href="mailto:ackelsgroup@ieecr-bonn.de"><i class="fa-solid fa-envelope fa-2x"></i></a> &ensp;
+    <a href="mailto:tobias.ackels@ukbonn.de"><i class="fa-solid fa-envelope fa-2x"></i></a> &ensp;
   </div>
 
 </tr>
