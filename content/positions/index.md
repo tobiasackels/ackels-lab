@@ -64,4 +64,4 @@ More information can be found in the job advert.
 <br>
 
 ### UNDERGRADUATES
-Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:ackelsgroup@ieecr-bonn.de) to Dr. Tobias Ackels.
+Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:tobias.ackels@ukbonn.de) to Dr. Tobias Ackels.
