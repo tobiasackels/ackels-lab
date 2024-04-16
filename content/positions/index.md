@@ -40,7 +40,7 @@ There are several benefits of joining our newly founded lab such as:
 *  You will see how an early-stage lab is run which will help with your own future career  
 
 
-We are actively looking for PhD a student and a Postdoc to join the team. All positions are fully funded and supported by our third party funds, including the ERC.  
+<!-- We are actively looking for PhD a student and a Postdoc to join the team. All positions are fully funded and supported by our third party funds, including the ERC.   -->
 <!-- <br>
 
 
