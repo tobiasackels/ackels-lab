@@ -64,8 +64,8 @@ More information can be found in the job advert.
 <br>
 
 ### RESEARCH ASSOCIATE / POSTDOC
-We are interested in recruitung a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. Please get in touch if you are interested in joining the lab!
-Job advert: [[PDF]](https://ackelslab.com/uploads/jobs/Postdoc_Zproject_MODOLFOR.pdf)
+We are interested in recruitung a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. Please get in touch if you are interested in joining the lab! <br>
+Job advert: [[PDF]](https://ackelslab.com/uploads/jobs/Postdoc_Zproject_MODOLFOR.pdf) <br>
 Application deadline:   30.06.2024
 
 ### UNDERGRADUATES
