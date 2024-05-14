@@ -64,7 +64,7 @@ More information can be found in the job advert.
 <br>
 
 ### RESEARCH ASSOCIATE / POSTDOC
-We are seeking a highly motivated scientist with a strong interest in technical questions in the context of neuroscience and in the development of new technology. The position The project is centred on the optimization of a standardised odour delivery device and entails active participation within the framework of the DFG-funded research unit FOR 5424 <a href="http://www.modolfor.de" target="_blank"> “Modulation in Olfaction” </a> <br>
+We are seeking a highly motivated scientist with a strong interest in technical questions in the context of neuroscience and in the development of new technology. The project is centred on the optimization of a standardised odour delivery device and entails active participation within the framework of the DFG-funded research unit FOR 5424 <a href="http://www.modolfor.de" target="_blank"> “Modulation in Olfaction” </a> Please see the ad below and get in touch if you're interested! <br>
 Job advert: [[PDF]](https://ackelslab.com/uploads/jobs/Postdoc_Zproject_MODOLFOR.pdf) <br>
 Application deadline:   30.06.2024
 
