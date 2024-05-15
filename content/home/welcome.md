@@ -158,7 +158,7 @@ Drumming
 <div style="text-align:center">
 </td>
 
-<td style='width:20%;'>
+<td style='width:10%;'>
 {{< figure src="logo_modolfor2.png">}}
 <div style="text-align:center">
 </td>
