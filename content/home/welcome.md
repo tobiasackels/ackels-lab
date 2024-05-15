@@ -154,6 +154,16 @@ Drumming
 </td>
 
 <td style='width:20%;'>
+{{< figure src="logo_dfg.png">}}
+<div style="text-align:center">
+</td>
+
+<td style='width:20%;'>
+{{< figure src="logo_modolfor2.png">}}
+<div style="text-align:center">
+</td>
+
+<td style='width:20%;'>
 {{< figure src="logo_uk_bonn.png">}}
 <div style="text-align:center">
 </td>
@@ -176,6 +186,18 @@ Drumming
 <div style="text-align:center">
 
 [European Research Council](https://erc.europa.eu/homepage)
+</div></td>
+
+<td style='width:16.5%;'>
+<div style="text-align:center">
+
+[German Research Foundation](https://www.dfg.de)
+</div></td>
+
+<td style='width:16.5%;'>
+<div style="text-align:center">
+
+[FOR5424 Modulation of Olfaction](https://www.modolfor.de)
 </div></td>
 
 <td style='width:20%;'>
