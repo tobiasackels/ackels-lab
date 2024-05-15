@@ -172,7 +172,7 @@ Drumming
 {{< figure src="logo_ieecr.png">}}
 </td>
 
-<td style='width:12%;'>
+<td style='width:15%;'>
 {{< figure src="logo_uni_bonn.png">}}
 </td>
 
