@@ -158,7 +158,7 @@ Drumming
 <div style="text-align:center">
 </td>
 
-<td style='width:5%;'>
+<td style='width:2%;'>
 {{< figure src="logo_modolfor2.png">}}
 <div style="text-align:center">
 </td>
@@ -172,11 +172,11 @@ Drumming
 {{< figure src="logo_ieecr.png">}}
 </td>
 
-<td style='width:20%;'>
+<td style='width:30%;'>
 {{< figure src="logo_uni_bonn.png">}}
 </td>
 
-<td style='width:24%;'>
+<td style='width:30%;'>
 {{< figure src="logo_imprs.png">}}
 </td>
 </tr>
