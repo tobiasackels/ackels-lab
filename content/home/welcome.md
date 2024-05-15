@@ -149,34 +149,34 @@ Drumming
 <table style='width: 100%' border='0'>
 <tr>
 
-<td style='width:16.5%;'>
+<td style='width:14%;'>
 {{< figure src="logo_erc_sm.png">}}
 </td>
 
-<td style='width:20%;'>
+<td style='width:15%;'>
 {{< figure src="logo_dfg.png">}}
 <div style="text-align:center">
 </td>
 
-<td style='width:2%;'>
+<td style='width:10%;'>
 {{< figure src="logo_modolfor2.png">}}
 <div style="text-align:center">
 </td>
 
-<td style='width:20%;'>
+<td style='width:15%;'>
 {{< figure src="logo_uk_bonn.png">}}
 <div style="text-align:center">
 </td>
 
-<td style='width:23.5%;'>
+<td style='width:20%;'>
 {{< figure src="logo_ieecr.png">}}
 </td>
 
-<td style='width:30%;'>
+<td style='width:20%;'>
 {{< figure src="logo_uni_bonn.png">}}
 </td>
 
-<td style='width:30%;'>
+<td style='width:20%;'>
 {{< figure src="logo_imprs.png">}}
 </td>
 </tr>
@@ -197,7 +197,7 @@ Drumming
 <td style='width:16.5%;'>
 <div style="text-align:center">
 
-[FOR5424 Modulation of Olfaction](https://www.modolfor.de)
+[FOR 5424: Modulation of Olfaction](https://www.modolfor.de)
 </div></td>
 
 <td style='width:20%;'>
