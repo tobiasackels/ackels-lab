@@ -35,7 +35,7 @@ social:
 
   - display:
       header: false
-    link: "mailto: tobias.ackels@gmail.com"
+    link: "mailto: tobias.ackels@ukbonn.de"
     icon_pack: fas
     icon: envelope
  
