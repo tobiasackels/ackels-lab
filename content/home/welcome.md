@@ -181,7 +181,7 @@ Drumming
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td style='width:16.5%;'>
 <div style="text-align:center">
 
@@ -225,6 +225,6 @@ Drumming
 
 [IMPRS for Brain and Behavior](https://imprs-brain-behavior.mpg.de/)
 </td>
-</tr>
+</tr> -->
 
 </table>
