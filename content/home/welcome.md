@@ -153,12 +153,12 @@ Drumming
 {{< figure src="logo_erc_sm.png">}}
 </td>
 
-<td style='width:15%;'>
+<td style='width:18%;'>
 {{< figure src="logo_dfg.png">}}
 <div style="text-align:center">
 </td>
 
-<td style='width:10%;'>
+<td style='width:8%;'>
 {{< figure src="logo_modolfor2.png">}}
 <div style="text-align:center">
 </td>
@@ -168,15 +168,15 @@ Drumming
 <div style="text-align:center">
 </td>
 
-<td style='width:20%;'>
+<td style='width:17%;'>
 {{< figure src="logo_ieecr.png">}}
 </td>
 
-<td style='width:20%;'>
+<td style='width:12%;'>
 {{< figure src="logo_uni_bonn.png">}}
 </td>
 
-<td style='width:20%;'>
+<td style='width:15%;'>
 {{< figure src="logo_imprs.png">}}
 </td>
 </tr>
