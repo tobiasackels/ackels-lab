@@ -2,10 +2,10 @@
 organizations: []
 superuser: false
 authors:
-  - Linda
-title: Linda Loenneker
-role: "MSc student intern"
-avatar_filename: photo_linda.jpg
+  - Dyutika
+title: Dyutika Banerjee
+role: "PhD student"
+avatar_filename: photo_dyutika.jpg
 bio: ""
 interests: []
 social:
@@ -16,5 +16,5 @@ social:
     icon: Email
 email: ""
 user_groups:
-  - Undergraduates
+  - PhD students
 ---

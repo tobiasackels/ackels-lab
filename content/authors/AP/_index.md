@@ -2,10 +2,10 @@
 organizations: []
 superuser: false
 authors:
-  - Linda
-title: Linda Loenneker
-role: "MSc student intern"
-avatar_filename: photo_linda.jpg
+  - AP
+title: Anantha Padmanabhan
+role: "MSc student"
+avatar_filename: photo_AP.jpg
 bio: ""
 interests: []
 social:

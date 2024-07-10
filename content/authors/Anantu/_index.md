@@ -2,7 +2,7 @@
 organizations: []
 superuser: false
 authors:
-  - phd
+  - Anantu
 title: Anantu Sunil
 role: "PhD student"
 avatar_filename: photo_anantu.jpg
