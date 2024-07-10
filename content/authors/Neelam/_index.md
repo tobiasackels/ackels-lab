@@ -4,7 +4,7 @@ superuser: false
 authors:
   - Neelam
 title: Neelam Bhattarai
-role: "MSc student"
+role: "MSc student intern"
 avatar_filename: photo_neelam.jpg
 bio: ""
 interests: []
