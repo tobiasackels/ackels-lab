@@ -29,11 +29,11 @@ University of Bonn Medical Center
 Life and Brain Center (Building 76)  
 Venusberg-Campus 1  
 53127 Bonn, Germany  
-Tel: +49 228-6885 147
+Tel: +49 228- 287 62147
 <br>
 
 [ackelsgroup@ieecr-bonn.de](mailto:ackelsgroup@ieecr-bonn.de) &ensp; &ensp;
-<a href="https://twitter.com/AckelsLab" target="_blank"><i class="fa-brands fa-twitter fa-2x"></i></a> &ensp;  
+<a href="https://twitter.com/TobiasAckels" target="_blank"><i class="fa-brands fa-twitter fa-2x"></i></a> &ensp;  
 [IEECR website](https://ieecr-bonn.de/)</div>  
 
 <br>
