@@ -48,12 +48,12 @@ Marin A.C., Schaefer A.T. and **Ackels T.**
 
 **ALL PUBLICATIONS** (in chronological order) 
 
-How do mammals convert dynamic odor information into neural maps for landscape navigation? 
+How do mammals convert dynamic odor information into neural maps for landscape navigation?  
 Sunil A., Pedroncini O., Schaefer A.T. and **Ackels T**. 
 *PLOS Biology* (accepted) 
 
 High-speed odor sensing using miniaturized electronic nose
-Dennler N., Drix D., Warner T., Rastogi S., Della Casa C., **Ackels T.**, Schaefer A.T., van Schaik A. and Schmucker M. 
+Dennler N., Drix D., Warner T., Rastogi S., Della Casa C., **Ackels T.**, Schaefer A.T., van Schaik A. and Schmucker M.  
 *Science Advances*, 45, (2024). [[PDF](https://ackelslab.com/uploads/pdf/Dennler_et_al_SciAdv_2024.pdf)] [[DOI](https://doi.org/10.1126/sciadv.adp1764)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/39504378/)]
 
 DNGR-1 lineage tracing reveals a population of damage-responsive neural stem cells in the central nervous system  
