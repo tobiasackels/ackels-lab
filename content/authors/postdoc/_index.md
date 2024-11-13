@@ -3,7 +3,7 @@ organizations: []
 superuser: false
 authors:
   - postdoc
-title: You as a Postdoc
+title: Amirreza Gholivand
 role: Postdoc
 bio: ""
 interests: []
