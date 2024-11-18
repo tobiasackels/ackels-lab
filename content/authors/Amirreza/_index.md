@@ -3,7 +3,7 @@ organizations: []
 superuser: false
 authors:
   - Amirreza
-title: Amirreza Gholivand
+title: Dr. Amirreza Gholivand
 role: "Postdoc"
 avatar_filename: photo_amir.jpg
 bio: ""
