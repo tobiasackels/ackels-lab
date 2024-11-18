@@ -38,12 +38,12 @@ design:
 <table style='width: 100%' border='0'>
 <tr>
 
-<td style='width:25%;'>
+<td style='width:15%;'>
 {{< figure src="lab_nov2024.jpg">}}
 </td>
 
-<td style='width:20%;'>
-{{< figure src="lab_auf2024.jpg">}}
+<td style='width:13%;'>
+{{< figure src="lab_aug2024.jpg">}}
 <div style="text-align:center">
 </td>
 </table>
