@@ -35,8 +35,20 @@ design:
 
 ---
 
+<table style='width: 100%' border='0'>
+<tr>
 
-<table style='width: 50%' border='0'>
+<td style='width:25%;'>
+{{< figure src="lab_nov2024.jpg">}}
+</td>
+
+<td style='width:20%;'>
+{{< figure src="lab_auf2024.jpg">}}
+<div style="text-align:center">
+</td>
+</table>
+
+<!-- <table style='width: 50%' border='0'>
 <tr>
  <td>
 <td style='width:100%;'>
@@ -51,4 +63,4 @@ design:
 </td>
 
 </tr>
-</table>
+</table> -->
