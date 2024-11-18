@@ -40,7 +40,7 @@ design:
 <tr>
  <td>
 <td style='width:100%;'>
-{{< figure src="tODD.png">}}
+{{< figure src="lab_nov2024.jpg">}}
 </p>
 </td>
 </tr>
