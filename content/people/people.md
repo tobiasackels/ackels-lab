@@ -42,7 +42,7 @@ design:
 {{< figure src="lab_nov2024.jpg">}}
 </td>
 
-<td style='width:14%;'>
+<td style='width:12%;'>
 {{< figure src="lab_aug2024.jpg">}}
 <div style="text-align:center">
 </td>
