@@ -35,7 +35,7 @@ design:
 
 ---
 
-<table style='width: 100%' border='0'>
+<table style='width: 70%' border='0'>
 <tr>
 
 <td style='width:15%;'>
