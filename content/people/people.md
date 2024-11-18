@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 title: Meet the Team
-subtitle:
+subtitle: lab photo here
 
 content:
   # Choose which groups/teams of users to display.
