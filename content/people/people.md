@@ -39,7 +39,9 @@ design:
 <table style='width: 100%' border='0'>
 <tr>
  <td>
-<td style='width:100%;'>
+<td style='width:50%;'>
+<p style="text-align: center">
+
 {{< figure src="lab_nov2024.jpg">}}
 </p>
 </td>
