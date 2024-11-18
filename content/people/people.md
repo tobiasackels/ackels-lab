@@ -36,15 +36,19 @@ design:
 ---
 
 
-<table style='width: 25%' border='0'>
+<table style='width: 50%' border='0'>
 <tr>
  <td>
 <td style='width:100%;'>
-<p style="text-align: center">
-
+<p style="text-align: left">
 {{< figure src="lab_nov2024.jpg">}}
 </p>
 </td>
+
+<p style="text-align: right">
+{{< figure src="lab_aug2024.jpg">}}
+</p>
+</td>
+
 </tr>
 </table>
----
