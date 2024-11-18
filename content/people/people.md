@@ -35,14 +35,14 @@ design:
 
 ---
 
-<table style='width: 50%' border='0'>
+<table style='width: 50%' border='0' align='center'>
 <tr>
 
 <td style='width:15%;'>
 {{< figure src="lab_nov2024.jpg">}}
 </td>
 
-<td style='width:13%;'>
+<td style='width:10%;'>
 {{< figure src="lab_aug2024.jpg">}}
 <div style="text-align:center">
 </td>
