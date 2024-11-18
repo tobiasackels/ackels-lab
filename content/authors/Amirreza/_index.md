@@ -2,9 +2,10 @@
 organizations: []
 superuser: false
 authors:
-  - postdoc
+  - Amirreza
 title: Amirreza Gholivand
-role: Postdoc
+role: "Postdoc"
+avatar_filename: photo_amir.jpg
 bio: ""
 interests: []
 social:
@@ -14,7 +15,6 @@ social:
     icon_pack: ai
     icon: Email
 email: ""
-user_groups:
 user_groups:
   - Postdocs
 ---
