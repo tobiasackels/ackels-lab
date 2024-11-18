@@ -12,16 +12,6 @@ weight: 1
 title: Meet the Team
 subtitle: 
 
-<table style='width: 100%' border='0'>
-<tr>
- <td>
-<td style='width:25%;'>
-<p style="text-align: right">
-{{< figure src="tODD.png">}}
-</p>
-</td>
-</tr>
-</table>
 
 content:
   # Choose which groups/teams of users to display.
