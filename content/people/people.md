@@ -12,8 +12,8 @@ weight: 1
 title: Meet the Team
 subtitle: 
 
-
 content:
+
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
@@ -35,4 +35,14 @@ design:
 
 ---
 
+
+<table style='width: 100%' border='0'>
+<tr>
+ <td>
+<td style='width:100%;'>
+{{< figure src="tODD.png">}}
+</p>
+</td>
+</tr>
+</table>
 ---
