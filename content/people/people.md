@@ -46,6 +46,19 @@ design:
 {{< figure src="lab_aug2024.jpg">}}
 <div style="text-align:center">
 </td>
+</tr>
+
+<tr>
+<td style='width:15%;'>
+{{< figure src="lab_xmas2024.jpg">}}
+</td>
+
+<td style='width:12%;'>
+{{< figure src="lab_karneval2025.jpg">}}
+<div style="text-align:center">
+</td>
+</tr>
+
 </table>
 
 <!-- <table style='width: 50%' border='0'>
