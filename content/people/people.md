@@ -22,6 +22,7 @@ content:
     - PhD students
     - Undergraduates    
     - Lab technician
+    - Research assistant
     - Alumni
 design:
   show_interests: false

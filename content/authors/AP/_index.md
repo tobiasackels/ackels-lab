@@ -4,7 +4,7 @@ superuser: false
 authors:
   - AP
 title: Anantha Padmanabhan
-role: "MSc student"
+role: "Research assistant"
 avatar_filename: photo_AP.jpg
 bio: ""
 interests: []
@@ -16,5 +16,5 @@ social:
     icon: Email
 email: ""
 user_groups:
-  - Undergraduates
+  - Research assistant
 ---
