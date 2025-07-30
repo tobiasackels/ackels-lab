@@ -105,7 +105,6 @@ His laboratory investigates these mechanisms on the cellular and network level u
 <table>
 <tr>
 <div style="text-align: center;">
-  <!-- <a href="http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf" target="_blank"><i class="ai ai-cv ai-2x"></i></a> &ensp; -->
   <a href="https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
     <i class="ai ai-google-scholar ai-2x"></i>
   </a> &ensp;
@@ -118,13 +117,17 @@ His laboratory investigates these mechanisms on the cellular and network level u
     <i class="ai ai-orcid ai-2x"></i>
   </a> &ensp;
 
-  <a href="https://bsky.app/profile/tobiasackels.bsky.social" target="_blank" title="Bluesky" style="vertical-align: middle;">
-    {{< figure src="logo_bluesky.svg" width="40px" >}}
+  <a href="https://bsky.app/profile/tobiasackels.bsky.social" target="_blank" title="Bluesky">
+    <img src="{{ "logo_bluesky.svg" | relURL }}"
+         alt="Bluesky"
+         style="height: 1.6em; vertical-align: middle; filter: invert(41%) sepia(100%) saturate(320%) hue-rotate(175deg);">
   </a> &ensp;
 
   <a href="mailto:tobias.ackels@ukbonn.de">
     <i class="fa-solid fa-envelope fa-2x"></i>
   </a>
+</div>
+
 </div>
 
 
