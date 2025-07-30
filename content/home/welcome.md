@@ -20,7 +20,6 @@ hero_media: ""
 {{< figure src="lab_name.png">}}
 
 </div>
-<br>
 
 ---
 
@@ -105,14 +104,29 @@ His laboratory investigates these mechanisms on the cellular and network level u
 
 <table>
 <tr>
- <div style="text-align: center;">
-    <!-- <a href="http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf" target="_blank"><i class="ai ai-cv ai-2x"></i></a> &ensp; -->
-    <a href="https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><i class="ai ai-google-scholar ai-2x"></i></a> &ensp;
-    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ackels+t" target="_blank"><i class="ai ai-pubmed ai-2x"></i></a> &ensp;
-    <a href="https://orcid.org/0000-0002-4964-1162" target="_blank"><i class="ai ai-orcid ai-2x"></i></a> &ensp;
-    <a href="https://bsky.app/profile/tobiasackels.bsky.social" target="_blank"><i class="fa-brands fa-bluesky"></i></a> &ensp;
-    <a href="mailto:tobias.ackels@ukbonn.de"><i class="fa-solid fa-envelope fa-2x"></i></a> &ensp;
-  </div>
+<div style="text-align: center;">
+  <!-- <a href="http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf" target="_blank"><i class="ai ai-cv ai-2x"></i></a> &ensp; -->
+  <a href="https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+    <i class="ai ai-google-scholar ai-2x"></i>
+  </a> &ensp;
+
+  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ackels+t" target="_blank">
+    <i class="ai ai-pubmed ai-2x"></i>
+  </a> &ensp;
+
+  <a href="https://orcid.org/0000-0002-4964-1162" target="_blank">
+    <i class="ai ai-orcid ai-2x"></i>
+  </a> &ensp;
+
+  <a href="https://bsky.app/profile/tobiasackels.bsky.social" target="_blank" title="Bluesky" style="vertical-align: middle;">
+    {{< figure src="logo_bluesky.svg" width="40px" >}}
+  </a> &ensp;
+
+  <a href="mailto:tobias.ackels@ukbonn.de">
+    <i class="fa-solid fa-envelope fa-2x"></i>
+  </a>
+</div>
+
 
 </tr>
 </table>
