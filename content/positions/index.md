@@ -68,5 +68,9 @@ We are seeking a highly motivated scientist with a strong interest in technical 
 Job advert: [[PDF]](https://ackelslab.com/uploads/jobs/Postdoc_Zproject_MODOLFOR.pdf) <br>
 Application deadline:   30.06.2024 -->
 
+### PhD position
+We are currently looking for a highly motivated PhD STUDENT to work on a <a href="https://gepris.dfg.de/gepris/projekt/563909633"> fully DFG-funded project </a> that investigates how the hippocampus, particularly the CA1 region, integrates olfactory and spatial signals to support goal-directed navigation. Using dual-colour miniscope calcium imaging and advanced behavioural assays in freely moving mice, the project aims to dissect the dynamics and circuit mechanisms underlying conjunctive coding of multisensory information and their causal contributions to adaptive behaviour. The project is a collaborative effort with the <a href="http://www.barnstedtlab.com"> Barnstedt Lab </a> in Göttingen. Applicants should send their application in a single pdf file, including (1) cover letter outlining research interests and motivation, (2) CV, and (3) two academic references via [email](mailto:tobias.ackels@ukbonn.de). 
+Application deadline: 31 January 2026.
+
 ### UNDERGRADUATES
 Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:tobias.ackels@ukbonn.de) to Dr. Tobias Ackels.
