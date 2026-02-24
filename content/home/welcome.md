@@ -96,6 +96,7 @@ Tobias received his Diploma in Biology from RWTH Aachen University, where he als
 
 <font size="3">
 The Ackels Lab combines physiological, imaging, and behavioural approaches to study neural coding at cellular and network levels, with a particular focus on how temporal stimulus structure shapes perception and behaviour.  </font>
+<p>
 </div>
 
 </div>
