@@ -51,9 +51,9 @@ PhD projects are available to motivated candidates to help us investigate how te
 <!-- *  PhD project Behaviour:   <a href="/uploads/jobs/PhD_advert_behaviour_Ackels_.pdf" target="_blank">Olfactory navigation using dynamic odour plumes</a>   -->
 
 ### POSTDOCTORAL RESEARCHER
-We are interested in recruitung a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. Please get in touch if you are interested in joining the lab!  -->
+We are interested in recruitung a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. Please get in touch if you are interested in joining the lab!
 *   [[PDF]](https://ackelslab.com/uploads/jobs/Advert_Postdoc2026_ackels.pdf) <br>
-Application deadline: 28.02.2026 -->  -->
+Application deadline: 28.02.2026
 
 <!-- <br> -->
 <!-- 
