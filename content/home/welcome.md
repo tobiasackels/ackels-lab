@@ -164,34 +164,20 @@ Drumming
 <!-- Support section -->
 <h2 style="text-align: center; margin-bottom: 1.5rem;">Support</h2>
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 2rem;">
+<div class="support-logos">
 
-  <a href="https://erc.europa.eu/homepage" target="_blank">
-    <img src="logo_erc_sm.png" alt="European Research Council" style="height: 70px; width: auto;">
-  </a>
+{{< figure src="logo_erc_sm.png" link="https://erc.europa.eu/homepage" target="_blank" alt="European Research Council" >}}
 
-  <a href="https://www.dfg.de" target="_blank">
-    <img src="logo_dfg.png" alt="German Research Foundation" style="height: 70px; width: auto;">
-  </a>
+{{< figure src="logo_dfg.png" link="https://www.dfg.de" target="_blank" alt="German Research Foundation" >}}
 
-  <a href="https://www.modolfor.de" target="_blank">
-    <img src="logo_modolfor2.png" alt="FOR 5424: Modulation of Olfaction" style="height: 70px; width: auto;">
-  </a>
+{{< figure src="logo_modolfor2.png" link="https://www.modolfor.de" target="_blank" alt="FOR 5424: Modulation of Olfaction" >}}
 
-  <a href="https://www.ukbonn.de/en" target="_blank">
-    <img src="logo_uk_bonn.png" alt="University Hospital Bonn" style="height: 70px; width: auto;">
-  </a>
+{{< figure src="logo_uk_bonn.png" link="https://www.ukbonn.de/en" target="_blank" alt="University Hospital Bonn" >}}
 
-  <a href="https://www.ieecr-bonn.de/" target="_blank">
-    <img src="logo_ieecr.png" alt="IEECR" style="height: 70px; width: auto;">
-  </a>
+{{< figure src="logo_ieecr.png" link="https://www.ieecr-bonn.de/" target="_blank" alt="IEECR" >}}
 
-  <a href="https://www.uni-bonn.de/" target="_blank">
-    <img src="logo_uni_bonn.png" alt="University of Bonn" style="height: 70px; width: auto;">
-  </a>
+{{< figure src="logo_uni_bonn.png" link="https://www.uni-bonn.de/" target="_blank" alt="University of Bonn" >}}
 
-  <a href="https://imprs-brain-behavior.mpg.de/" target="_blank">
-    <img src="logo_imprs.png" alt="IMPRS for Brain and Behavior" style="height: 70px; width: auto;">
-  </a>
+{{< figure src="logo_imprs.png" link="https://imprs-brain-behavior.mpg.de/" target="_blank" alt="IMPRS for Brain and Behavior" >}}
 
 </div>
