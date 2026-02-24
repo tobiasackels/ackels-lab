@@ -45,6 +45,14 @@ social:
     link: "mailto: tobias.ackels@ukbonn.de"
     icon_pack: fas
     icon: envelope
+
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/tobias-ackels-04300a132/
+    icon_pack: ai
+    icon: linkedin
+    label: linkedin
+
  
 organizations:
   - name: University of Bonn, IEECR
