@@ -16,5 +16,5 @@ social:
     icon: Email
 email: ""
 user_groups:
-  - Research assistant
+  - Team
 ---
