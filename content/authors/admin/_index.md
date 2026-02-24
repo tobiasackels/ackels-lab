@@ -1,5 +1,5 @@
 ---
-title: Prof. Dr. Tobias Ackels
+title: Tobias Ackels
 role: Principal Investigator
 avatar_filename: photo_tobias.jpg
 bio: ""
