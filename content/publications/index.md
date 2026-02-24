@@ -46,19 +46,47 @@ design:
 <!-- ============================================================ -->
 
 <div class="pub-card">
-<div class="pub-title">How do mammals convert dynamic odor information into neural maps for landscape navigation?</div>
-<div class="pub-authors">Sunil A., Pedroncini O., Schaefer A.T. and <strong>Ackels T.</strong></div>
-<div class="pub-venue">PLOS Biology (accepted)</div>
-</div>
+<div class="pub-title"><a href="https://doi.org/10.1038/s42255-025-01301-1">A food-sensitive olfactory circuit drives anticipatory satiety</a></div>
+<div class="pub-authors">Bulk J., Schmehr J.N., <strong>Ackels T.</strong>, de Oliveira Beleza R., Carvalho A., Gouveia A., Rigoux L., Hellier V., Cremer A.L., Backes H., Schaefer A.T. and Steculorum S.M.</div>
+<div class="pub-venue">Nature Metabolism, 7(6), 1246–1265 (2025)</div>
+<div class="pub-links">
+  <a class="link-doi" href="https://doi.org/10.1038/s42255-025-01301-1">DOI</a>
+  <a class="link-pubmed" href="https://pubmed.ncbi.nlm.nih.gov/40500386/">PubMed</a>
+</div></div>
+
+<div class="pub-card">
+<div class="pub-title"><a href="https://doi.org/10.1101/2025.05.14.653752">Mice discriminate odour source distance via sub-sniff temporal features of odour plumes</a></div>
+<div class="pub-authors">Marin A.C., Harris J.J., Dasgupta D., Erskine A., Warner T.P.A., Schaefer A.T. and <strong>Ackels T.</strong></div>
+<div class="pub-venue">bioRxiv (2025)</div>
+<div class="pub-links">
+  <a class="link-doi" href="https://doi.org/10.1101/2025.05.14.653752">DOI</a>
+</div></div>
+
+<div class="pub-card">
+<div class="pub-title"><a href="https://doi.org/10.1101/2025.04.24.650439">Structure-Function Mapping of Olfactory Bulb Circuits with Synchrotron X-ray Nanotomography</a></div>
+<div class="pub-authors">Zhang Y., Bosch C., <strong>Ackels T.</strong>, Laugros A., Bonnin A., Livingstone J., Waltenberg C., Berning M., Tootoonian S., Kollo M., Nathansen A., Rzepka N., Cloetens P., Pacureanu A. and Schaefer A.T.</div>
+<div class="pub-venue">bioRxiv (2025)</div>
+<div class="pub-links">
+  <a class="link-doi" href="https://doi.org/10.1101/2025.04.24.650439">DOI</a>
+</div></div>
 
 <!-- ============================================================ -->
 <div class="pub-year">2024</div>
 <!-- ============================================================ -->
 
 <div class="pub-card">
+<div class="pub-title"><a href="https://doi.org/10.1371/journal.pbio.3002908">How do mammals convert dynamic odor information into neural maps for landscape navigation?</a></div>
+<div class="pub-authors">Sunil A., Pedroncini O., Schaefer A.T. and <strong>Ackels T.</strong></div>
+<div class="pub-venue">PLOS Biology, 22(11), e3002908 (2024)</div>
+<div class="pub-links">
+  <a class="link-doi" href="https://doi.org/10.1371/journal.pbio.3002908">DOI</a>
+  <a class="link-pubmed" href="https://pubmed.ncbi.nlm.nih.gov/39571004/">PubMed</a>
+</div></div>
+
+<div class="pub-card">
 <div class="pub-title"><a href="https://doi.org/10.1126/sciadv.adp1764">High-speed odor sensing using miniaturized electronic nose</a></div>
-<div class="pub-authors">Dennler N., Drix D., Warner T., Rastogi S., Della Casa C., <strong>Ackels T.</strong>, Schaefer A.T., van Schaik A. and Schmucker M.</div>
-<div class="pub-venue">Science Advances, 45 (2024)</div>
+<div class="pub-authors">Dennler N., Drix D., Warner T., Rastogi S., Della Casa C., <strong>Ackels T.</strong>, Schaefer A.T., van Schaik A. and Schmuker M.</div>
+<div class="pub-venue">Science Advances, 10(45) (2024)</div>
 <div class="pub-links">
   <a class="link-pdf" href="https://ackelslab.com/uploads/pdf/Dennler_et_al_SciAdv_2024.pdf">PDF</a>
   <a class="link-doi" href="https://doi.org/10.1126/sciadv.adp1764">DOI</a>
