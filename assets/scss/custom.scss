@@ -1,3 +1,108 @@
 .nobullet li {
     list-style-type: none;
   }
+
+/* ── Publications page ── */
+
+.pub-year {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--menu-primary);
+  border-bottom: 2px solid var(--menu-primary);
+  padding-bottom: 0.3rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.pub-card {
+  background: var(--body-bg);
+  border-left: 4px solid var(--menu-primary);
+  border-radius: 4px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  transition: box-shadow 0.2s ease;
+}
+
+.pub-card:hover {
+  box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+}
+
+.pub-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0 0 0.3rem;
+  line-height: 1.4;
+}
+
+.pub-title a {
+  color: var(--menu-primary);
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  text-decoration: underline;
+}
+
+.pub-authors {
+  font-size: 0.92rem;
+  color: #555;
+  margin-bottom: 0.25rem;
+}
+
+.pub-venue {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.pub-links a {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.2rem 0.55rem;
+  margin-right: 0.4rem;
+  margin-bottom: 0.3rem;
+  border-radius: 3px;
+  text-decoration: none;
+  transition: opacity 0.15s ease;
+}
+
+.pub-links a:hover {
+  opacity: 0.85;
+}
+
+.pub-links .link-pdf {
+  background: #d45050;
+  color: #fff;
+}
+
+.pub-links .link-doi {
+  background: #3a7bd5;
+  color: #fff;
+}
+
+.pub-links .link-pubmed {
+  background: #2d8659;
+  color: #fff;
+}
+
+.pub-section-label {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #ccc;
+  color: #333;
+}
+
+.pub-disclaimer {
+  font-size: 0.8rem;
+  color: #888;
+  margin-top: 2rem;
+  font-style: italic;
+}
