@@ -12,14 +12,19 @@
 
 /* ── Reduce excessive footer padding ── */
 .page-footer {
-  padding: 1rem 0;
+  padding: 1rem 0 !important;
 }
-.page-footer .container {
+.page-footer > .container {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
 }
+.page-footer .site-footer {
+  padding: 0.5rem 0 !important;
+  margin: 0 !important;
+}
 .page-footer .powered-by {
-  margin-bottom: 0.25rem;
+  margin: 0.25rem 0 !important;
+  padding: 0 !important;
 }
 
 /* ── Bluesky icon: FA 6.0 bundled fonts lack this glyph, so render via SVG mask ── */
