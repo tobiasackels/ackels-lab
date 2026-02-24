@@ -12,10 +12,10 @@ interests:
 social:
   - display:
       header: false
-    link: "http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf"
-    icon_pack: ai
-    icon: cv
-    label: CV   
+    # link: "http://ackelslab.com/uploads/CV_Tobias_Ackels.pdf"
+    # icon_pack: ai
+    # icon: cv
+    # label: CV   
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate
