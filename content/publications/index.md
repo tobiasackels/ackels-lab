@@ -334,8 +334,6 @@ design:
 
 <br>
 
-<div class="pub-disclaimer">All PDF files provided on this site are for personal use only. They may not be reposted without the explicit permission of the copyright holder. All persons copying this information will adhere to the terms and constraints invoked by each author's copyright.</div>
-
 <script>
 document.querySelectorAll('.pub-card a, .pub-links a, .pub-title a').forEach(function(a) {
   a.setAttribute('target', '_blank');
