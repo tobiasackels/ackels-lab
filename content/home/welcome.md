@@ -34,7 +34,6 @@ hero_media: ""
 <!-- We are a newly formed lab and are currently hiring at all levels!  
 See our [open positions](/positions) and [get in touch](/contact) if you are interested in joining us! </div> -->
 
----
 <br>
 
 
