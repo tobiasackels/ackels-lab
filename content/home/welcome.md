@@ -80,7 +80,7 @@ For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https
 <tr>
 
 <td style='width:30%;'>
-{{< figure src="photo_tobias.jpg">}}  
+{{< figure src="photo_tobias3.jpg">}}  
 <div style="text-align:center">
 
 ## Prof. Dr. Tobias Ackels    
