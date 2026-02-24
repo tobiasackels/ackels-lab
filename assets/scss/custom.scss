@@ -10,6 +10,14 @@
   background: #fff;
 }
 
+/* ── Reduce excessive footer padding ── */
+.page-footer {
+  padding: 1rem 0;
+}
+.page-footer .powered-by {
+  margin-bottom: 0.25rem;
+}
+
 /* ── Bluesky icon: FA 6.0 bundled fonts lack this glyph, so render via SVG mask ── */
 .fa-bluesky::before {
   content: '' !important;           /* clear the missing glyph */
