@@ -20,14 +20,20 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 1.5rem 2rem;
 }
-.support-logos .figure {
-  margin: 0;
+.support-logos figure {
+  margin: 0 !important;
+  flex: 0 0 auto;
 }
-.support-logos .figure img {
-  height: 70px;
-  width: auto;
+.support-logos .d-flex,
+.support-logos .w-100 {
+  width: auto !important;
+}
+.support-logos figure img {
+  height: 70px !important;
+  width: auto !important;
+  max-width: none;
 }
 
 /* ── Publications page ── */
