@@ -34,11 +34,8 @@ There are several benefits of joining our newly founded lab such as:
 *  You will be working as part of a small team of highly motivated and enthusiastic people in a highly collaborative environment  
 *  You will have more 1-on-1 time with the PI  
 *  You will have privileged access to a wide array of cutting-edge technologies  
-(multi-photon imaging, electrophysiology, optogenetics, behaviour etc.)
+(multi-photon imaging, electrophysiology, optogenetics, behaviour, miniscope imaging etc.)
 *  You will have the opportunity to develop your own research project  
-*  There will be more resources per person  
-*  You will see how an early-stage lab is run which will help with your own future career  
-
 
 <!-- We are actively looking for PhD a student and a Postdoc to join the team. All positions are fully funded and supported by our third party funds, including the ERC.   -->
 <!-- <br>
@@ -55,14 +52,12 @@ We are interested in recruitung a postdoctoral researcher to drive a project at 
 <b>Job advert:</b> [[PDF]](https://ackelslab.com/uploads/jobs/Advert_Postdoc2026_ackels.pdf) <br>
 <b>Application deadline:</b> 28.02.2026 
 
-
 <!-- <br> -->
 <!-- 
 ### TECHNICAL ASSISTANT
 We are currently looking for a laboratory technician to help with ordering and setting up equipment, colony maintenance, bench work, and running neurophysiological and behavioural experiments.
 More information can be found in the job advert. 
 *   Job advert: <a href="/uploads/jobs/TA_advert_Ackels_.pdf" target="_blank">Technical Assistant</a> -->
-<br>
 
 <!-- ### RESEARCH ASSOCIATE / POSTDOC
 We are seeking a highly motivated scientist with a strong interest in technical questions in the context of neuroscience and in the development of new technology. The project is centred on the optimization of a standardised odour delivery device and entails active participation within the framework of the DFG-funded research unit FOR 5424 <a href="http://www.modolfor.de" target="_blank"> “Modulation in Olfaction” </a> Please see the ad below and get in touch if you're interested! <br>
