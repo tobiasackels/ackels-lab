@@ -57,7 +57,7 @@ design:
 <!-- ============================================================ -->
 
 <div class="pub-card">
-<div class="pub-thumb"><img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42255-025-01301-1/MediaObjects/42255_2025_1301_Fig1_HTML.png" alt="Bulk et al. 2025"></div>
+<div class="pub-thumb pub-thumb-placeholder"><span>Nat Metab</span></div>
 <div class="pub-content">
 <div class="pub-title"><a href="https://doi.org/10.1038/s42255-025-01301-1">A food-sensitive olfactory circuit drives anticipatory satiety</a></div>
 <div class="pub-authors">Bulk J., Schmehr J.N., <strong>Ackels T.</strong>, de Oliveira Beleza R., Carvalho A., Gouveia A., Rigoux L., Hellier V., Cremer A.L., Backes H., Schaefer A.T. and Steculorum S.M.</div>
@@ -95,7 +95,7 @@ design:
 <!-- ============================================================ -->
 
 <div class="pub-card">
-<div class="pub-thumb"><img src="https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002908.g002&size=inline" alt="Sunil et al. 2024"></div>
+<div class="pub-thumb pub-thumb-placeholder"><span>PLOS Biol</span></div>
 <div class="pub-content">
 <div class="pub-title"><a href="https://doi.org/10.1371/journal.pbio.3002908">How do mammals convert dynamic odor information into neural maps for landscape navigation?</a></div>
 <div class="pub-authors">Sunil A., Pedroncini O., Schaefer A.T. and <strong>Ackels T.</strong></div>
@@ -398,11 +398,74 @@ design:
 
 <div class="pub-disclaimer">All PDF files provided on this site are for personal use only. They may not be reposted without the explicit permission of the copyright holder. All persons copying this information will adhere to the terms and constraints invoked by each author's copyright.</div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 <script>
 // Open all publication links in a new tab
 document.querySelectorAll('.pub-card a, .pub-links a, .pub-title a').forEach(function(a) {
   a.setAttribute('target', '_blank');
   a.setAttribute('rel', 'noopener noreferrer');
+});
+
+// ── PDF title-page thumbnails ──
+var pdfMap = {
+  '10.1126/sciadv.adp1764': 'Dennler_et_al_SciAdv_2024.pdf',
+  '10.1016/j.devcel.2022.07.012': 'Frederico_et_al_DevCell_2022.pdf',
+  '10.1038/s41467-022-30199-6': 'Bosch_et_al_Nat_Comms_2022.pdf',
+  '10.3389/fcell.2022.880696': 'Zhang_et_al_Front_CDB_2022.pdf',
+  '10.1088/1741-2552/ac514f': 'Racz_et_al_JNeuralEng_2022.pdf',
+  '10.1038/s41586-021-03514-2': 'Ackels_et_al_Nature_2021.pdf',
+  '10.7554/eLife.65445': 'Zeppilli_et_al_elife_2021.pdf',
+  '10.3389/fncel.2020.00220': 'Ackels_et_al_Front_CellNeur_2020.pdf',
+  '10.1016/j.heares.2020.108013': 'Wirth_et_al_HearRes_2020.pdf',
+  '10.1371/journal.pone.0191219': 'Pelz_et_al_PONE_2018.pdf',
+  '10.1016/j.jconrel.2017.04.013': 'Wallbrecher_et_al_JContrRel_2017.pdf',
+  '10.3791/54517': 'Ackels_et_al_jOVE_2014.pdf',
+  '10.3389/fncel.2015.00366': 'Oberland_et_al_Front_CellN_2015.pdf',
+  '10.1523/jneurosci.2593-14.2015': 'Cichy_et_al_JNeurosci_2015.pdf',
+  '10.1093/chemse/bju061': 'Henkel_et_al_ChemSens_2014.pdf',
+  '10.3389/fnana.2014.00134': 'Ackels_et_al_Front_NeurAnat_2014.pdf',
+  '10.1016/j.cell.2014.02.025': 'Kaur_et_al_Cell_2014.pdf',
+  '10.1515/nf-2022-0006': 'Ackels_Neuroforum_2022.pdf',
+  '10.1016/j.crmeth.2022.100240': 'Ackels_Schaefer_CellRepMethods_2022.pdf',
+  '10.1007/s00441-020-03395-3': 'Marin_et_al_CTR_2021.pdf',
+  '10.1038/nn.4484': 'Ackels_Schaefer_NatNeur_2017.pdf'
+};
+
+pdfjsLib.GlobalWorkerOptions.workerSrc =
+  'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+document.querySelectorAll('.pub-card').forEach(function(card) {
+  var link = card.querySelector('.pub-title a');
+  if (!link) return;
+  var doi = link.getAttribute('href').replace('https://doi.org/', '');
+  if (!pdfMap[doi]) return;
+  var thumb = card.querySelector('.pub-thumb');
+  if (!thumb) return;
+  var pdfUrl = '/uploads/pdf/' + pdfMap[doi];
+
+  var io = new IntersectionObserver(function(entries) {
+    if (entries[0].isIntersecting) {
+      io.disconnect();
+      pdfjsLib.getDocument({ url: pdfUrl, disableAutoFetch: true }).promise
+        .then(function(pdf) { return pdf.getPage(1); })
+        .then(function(page) {
+          var scale = (thumb.clientWidth * 2) / page.getViewport({ scale: 1 }).width;
+          var vp = page.getViewport({ scale: scale });
+          var canvas = document.createElement('canvas');
+          canvas.width  = vp.width;
+          canvas.height = vp.height;
+          return page.render({ canvasContext: canvas.getContext('2d'), viewport: vp }).promise
+            .then(function() { return canvas; });
+        })
+        .then(function(canvas) {
+          thumb.innerHTML = '';
+          thumb.className = 'pub-thumb';
+          thumb.appendChild(canvas);
+        })
+        .catch(function() { /* keep existing placeholder */ });
+    }
+  }, { rootMargin: '300px' });
+  io.observe(thumb);
 });
 </script>
 
