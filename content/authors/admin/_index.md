@@ -29,6 +29,13 @@ social:
 
   - display:
       header: false
+    link: https://bsky.app/profile/tobiasackels.bsky.social
+    icon_pack: fab
+    icon: bluesky
+    label: Bluesky
+
+  - display:
+      header: false
     link: https://twitter.com/tobiasackels
     icon_pack: fab
     icon: twitter
