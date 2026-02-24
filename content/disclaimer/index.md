@@ -54,10 +54,13 @@ Wir informieren Sie nachfolgend gemäß den gesetzlichen Vorgaben des Datenschut
 Unser/e Verantwortliche/r (nachfolgend „Verantwortlicher“) i.S.d. Art. 4 Zif. 7 DS-GVO ist:
 
 Tobias Ackels  
-5 Maurice Walk  
-NW11 6JX  
-London, UK  
-Email: tobias.ackels@gmail.com  
+Sensory Dynamics and Behaviour  
+Institute of Experimental Epilepsy and Cognition Research  
+University of Bonn Medical Center  
+Life and Brain Center (Building 76)  
+Venusberg-Campus 1  
+53127 Bonn  
+Email: tobias.ackels@ukbonn.de  
 
 **Datenarten, Zwecke der Verarbeitung und Kategorien betroffener Personen**  
 
