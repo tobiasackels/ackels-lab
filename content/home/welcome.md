@@ -91,7 +91,7 @@ University of Bonn, IEECR
 
 <td style='width:70%;'>
 <font size="3">
-Tobias Ackels is a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) at the University Hospital Bonn. He leads the Ackels Lab, which investigates how the mammalian brain encodes and processes temporally complex sensory information. His research is supported by an ERC Starting Grant for the project \u201cTempCOdE: Temporally Complex Odor Information Encoding,\u201d as well as funding from the German Research Foundation (DFG) and the International Max Planck Research School for Brain and Behavior (IMPRS-BB) in Bonn.  </font>
+Tobias Ackels is a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) at the University Hospital Bonn. His lab investigates how the mammalian brain encodes and processes temporally complex sensory information. His research is supported by an ERC Starting Grant for the project "TempCOdE: Temporally Complex Odor Information Encoding", as well as funding from the German Research Foundation (DFG) and the International Max Planck Research School for Brain and Behavior (IMPRS-BB) in Bonn.  </font>
 <p>
 
 <font size="3">
