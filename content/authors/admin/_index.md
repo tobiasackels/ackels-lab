@@ -76,9 +76,9 @@ highlight_name: false
 ---
 
 <p style='text-align: justify;'>
-Tobias Ackels is a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) at the University Hospital Bonn. His lab investigates how the mammalian brain encodes and processes temporally complex sensory information. His research is supported by an ERC Starting Grant for the project "TempCOdE: Temporally Complex Odor Information Encoding", as well as funding from the German Research Foundation (DFG) and the International Max Planck Research School for Brain and Behavior (IMPRS-BB) in Bonn.
+Tobias Ackels is a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) at the University Hospital Bonn. His lab investigates how the mammalian brain encodes and processes temporally complex sensory information. His research is supported by an ERC Starting Grant for the project "TempCOdE: Temporally Complex Odour Information Encoding", as well as funding from the German Research Foundation (DFG) and the International Max Planck Research School for Brain and Behavior (IMPRS-BB) in Bonn.
 <p style='text-align: justify;'>
 Tobias received his Diploma in Biology from RWTH Aachen University, where he also completed his PhD in 2015 in the Department of Chemosensation. His doctoral research focused on signaling mechanisms in the olfactory system. He then joined the laboratory of Prof. Andreas Schaefer at the Francis Crick Institute in London as a postdoctoral fellow, supported by a fellowship from the German Research Foundation (DFG). There, he deepened his interest in understanding how natural sensory stimuli are represented and processed in the mammalian brain. 
 <p style='text-align: justify;'>
-The Ackels Lab combines physiological, imaging, and behavioral approaches to study neural coding at cellular and network levels, with a particular focus on how temporal stimulus structure shapes perception and behavior.  
+The Ackels Lab combines physiological, imaging, and behavioural approaches to study neural coding at cellular and network levels, with a particular focus on how temporal stimulus structure shapes perception and behaviour.  
 <p>
