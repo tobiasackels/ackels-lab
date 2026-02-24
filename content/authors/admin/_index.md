@@ -27,11 +27,12 @@ social:
     icon: pubmed
     label: pubmed
 
-  # - display:
-  #     header: false
-  #   link: https://twitter.com/tobiasackels
-  #   icon_pack: fab
-  #   icon: twitter
+  - display:
+      header: false
+    link: https://bsky.app/profile/tobiasackels.bsky.social
+    icon_pack: custom
+    icon: bluesky
+    label: Bluesky
 
   - display:
       header: false
