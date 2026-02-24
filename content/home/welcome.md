@@ -125,6 +125,10 @@ The Ackels Lab combines physiological, imaging, and behavioral approaches to stu
 
   <a href="mailto:tobias.ackels@ukbonn.de">
     <i class="fa-solid fa-envelope fa-2x"></i>
+  </a> &ensp;
+
+  <a href="https://www.linkedin.com/in/tobias-ackels-04300a132/" target="_blank">
+    <i class="fab fa-linkedin fa-2x"></i>
   </a>
 </div>
 
