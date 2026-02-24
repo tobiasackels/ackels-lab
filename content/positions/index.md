@@ -49,11 +49,11 @@ PhD projects are available to motivated candidates to help us investigate how te
 
 *  PhD project: <a href="https://karriereamukb.de/offer/phd-candidate-m-f-d-institute-of-ex/4a45919e-ab5e-4239-ac41-0ac95ee8052c" target="_blank">Representation and processing of temporally complex odours</a> [[PDF]](https://ackelslab.com/uploads/jobs/PhD_EPI_Ackels_317_2023e.pdf)
 <!-- *  PhD project Behaviour:   <a href="/uploads/jobs/PhD_advert_behaviour_Ackels_.pdf" target="_blank">Olfactory navigation using dynamic odour plumes</a>   -->
-<!-- <br>
 
 ### POSTDOCTORAL RESEARCHER
 We are interested in recruitung a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. Please get in touch if you are interested in joining the lab!  -->
-<!-- *  Job advert: <a href="https://karriereamukb.de/offer/postdoctoral-researcher-m-f-d-insti/2e65ce6b-586f-459b-a9b5-71ba5cd2aad5" target="_blank">Postdoctoral Researcher</a> [[PDF]](https://ackelslab.com/uploads/jobs/Postdoc_EPI_Ackels_318_2023e.pdf)  -->
+*   [[PDF]](https://ackelslab.com/uploads/jobs/Advert_Postdoc2026_ackels.pdf) <br>
+Application deadline: 28.02.2026 -->  -->
 
 <!-- <br> -->
 <!-- 
@@ -68,9 +68,11 @@ We are seeking a highly motivated scientist with a strong interest in technical 
 Job advert: [[PDF]](https://ackelslab.com/uploads/jobs/Postdoc_Zproject_MODOLFOR.pdf) <br>
 Application deadline:   30.06.2024 -->
 
+<!-- 
 ### PhD position
 We are currently looking for a highly motivated PhD STUDENT to work on a <a href="https://gepris.dfg.de/gepris/projekt/563909633" target="_blank"> fully DFG-funded project </a> that investigates how the hippocampus, particularly the CA1 region, integrates olfactory and spatial signals to support goal-directed navigation. Using dual-colour miniscope calcium imaging and advanced behavioural assays in freely moving mice, the project aims to dissect the dynamics and circuit mechanisms underlying conjunctive coding of multisensory information and their causal contributions to adaptive behaviour. The project is a collaborative effort with the <a href="http://www.barnstedtlab.com" target="_blank"> Barnstedt Lab </a> in Göttingen. Applicants should send their application in a single pdf file, including (1) cover letter outlining research interests and motivation, (2) CV, and (3) two academic references via [email](mailto:tobias.ackels@ukbonn.de). <br>
 Application deadline: 31 January 2026.
-
+ -->
+ 
 ### UNDERGRADUATES
 Students interested in doing their Bachelor's or Master's project in our lab should send their CV with a brief description of their goals after graduation via [email](mailto:tobias.ackels@ukbonn.de) to Dr. Tobias Ackels.
