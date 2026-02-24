@@ -162,88 +162,36 @@ Drumming
 <br>
 
 <!-- Support section -->
-<h1 style="text-align: center;">Support</h1>
-<br>
+<h2 style="text-align: center; margin-bottom: 1.5rem;">Support</h2>
 
-<table style='width: 100%' border='0'>
-<tr>
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 2rem;">
 
-<td style='width:14%;'>
-{{< figure src="logo_erc_sm.png">}}
-</td>
+  <a href="https://erc.europa.eu/homepage" target="_blank">
+    <img src="logo_erc_sm.png" alt="European Research Council" style="height: 70px; width: auto;">
+  </a>
 
-<td style='width:18%;'>
-{{< figure src="logo_dfg.png">}}
-<div style="text-align:center">
-</td>
+  <a href="https://www.dfg.de" target="_blank">
+    <img src="logo_dfg.png" alt="German Research Foundation" style="height: 70px; width: auto;">
+  </a>
 
-<td style='width:8%;'>
-{{< figure src="logo_modolfor2.png">}}
-<div style="text-align:center">
-</td>
+  <a href="https://www.modolfor.de" target="_blank">
+    <img src="logo_modolfor2.png" alt="FOR 5424: Modulation of Olfaction" style="height: 70px; width: auto;">
+  </a>
 
-<td style='width:15%;'>
-{{< figure src="logo_uk_bonn.png">}}
-<div style="text-align:center">
-</td>
+  <a href="https://www.ukbonn.de/en" target="_blank">
+    <img src="logo_uk_bonn.png" alt="University Hospital Bonn" style="height: 70px; width: auto;">
+  </a>
 
-<td style='width:17%;'>
-{{< figure src="logo_ieecr.png">}}
-</td>
+  <a href="https://www.ieecr-bonn.de/" target="_blank">
+    <img src="logo_ieecr.png" alt="IEECR" style="height: 70px; width: auto;">
+  </a>
 
-<td style='width:15%;'>
-{{< figure src="logo_uni_bonn.png">}}
-</td>
+  <a href="https://www.uni-bonn.de/" target="_blank">
+    <img src="logo_uni_bonn.png" alt="University of Bonn" style="height: 70px; width: auto;">
+  </a>
 
-<td style='width:19%;'>
-{{< figure src="logo_imprs.png">}}
-</td>
-</tr>
+  <a href="https://imprs-brain-behavior.mpg.de/" target="_blank">
+    <img src="logo_imprs.png" alt="IMPRS for Brain and Behavior" style="height: 70px; width: auto;">
+  </a>
 
-<!-- <tr>
-<td style='width:16.5%;'>
-<div style="text-align:center">
-
-[European Research Council](https://erc.europa.eu/homepage)
-</div></td>
-
-<td style='width:16.5%;'>
-<div style="text-align:center">
-
-[German Research Foundation](https://www.dfg.de)
-</div></td>
-
-<td style='width:16.5%;'>
-<div style="text-align:center">
-
-[FOR 5424: Modulation of Olfaction](https://www.modolfor.de)
-</div></td>
-
-<td style='width:20%;'>
-<div style="text-align:center">
-
-[University Hospital Bonn](https://www.ukbonn.de/en)
 </div>
-</td>
-
-<td style='width:23.5%;'>
-<div style="text-align:center">
-
-[Institute for Experimental Epileptology and Cognition Research](https://www.ieecr-bonn.de/)
-</div>
-</td>
-<td style='width:20%;'>
-<div style="text-align:center">
-
-[University of Bonn](https://www.uni-bonn.de/)
-</div>
-</td>
-
-<td style='width:22%;'>
-<div style="text-align:center">
-
-[IMPRS for Brain and Behavior](https://imprs-brain-behavior.mpg.de/)
-</td>
-</tr> -->
-
-</table>
