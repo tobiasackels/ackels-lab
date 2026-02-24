@@ -166,7 +166,7 @@ Drumming
 
 <div class="support-logos">
 
-{{< figure src="logo_erc_sm.png" link="https://erc.europa.eu/homepage" target="_blank" alt="European Research Council" >}}
+{{< figure src="logo_erc_new.png" link="https://erc.europa.eu/homepage" target="_blank" alt="European Research Council" >}}
 
 {{< figure src="logo_dfg.png" link="https://www.dfg.de" target="_blank" alt="German Research Foundation" >}}
 
@@ -179,5 +179,9 @@ Drumming
 {{< figure src="logo_uni_bonn.png" link="https://www.uni-bonn.de/" target="_blank" alt="University of Bonn" >}}
 
 {{< figure src="logo_imprs.png" link="https://imprs-brain-behavior.mpg.de/" target="_blank" alt="IMPRS for Brain and Behavior" >}}
+
+{{< figure src="logo_ibehave.png" link="https://ibehave.nrw" target="_blank" alt="iBehave" >}}
+
+{{< figure src="logo_paul_ehrlich.png" link="https://www.paul-ehrlich-stiftung.de" target="_blank" alt="Paul Ehrlich Foundation" >}}
 
 </div>
