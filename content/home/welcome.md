@@ -117,11 +117,9 @@ The Ackels Lab combines physiological, imaging, and behavioral approaches to stu
     <i class="ai ai-orcid ai-2x"></i>
   </a> &ensp;
 
-  <!-- <a href="https://bsky.app/profile/tobiasackels.bsky.social" target="_blank" title="Bluesky">
-    <img src="{{ "logo_bluesky.svg" | relURL }}"
-         alt="Bluesky"
-         style="height: 1.6em; vertical-align: middle; filter: invert(41%) sepia(100%) saturate(320%) hue-rotate(175deg);">
-  </a> &ensp; -->
+  <a href="https://bsky.app/profile/tobiasackels.bsky.social" target="_blank" title="Bluesky">
+    <i class="fab fa-bluesky fa-2x"></i>
+  </a> &ensp;
 
   <a href="mailto:tobias.ackels@ukbonn.de">
     <i class="fa-solid fa-envelope fa-2x"></i>
