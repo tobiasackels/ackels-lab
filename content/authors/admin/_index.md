@@ -27,17 +27,18 @@ social:
     icon: pubmed
     label: pubmed
 
-  - display:
-      header: false
-    link: https://twitter.com/tobiasackels
-    icon_pack: fab
-    icon: twitter
+  # - display:
+  #     header: false
+  #   link: https://twitter.com/tobiasackels
+  #   icon_pack: fab
+  #   icon: twitter
 
   - display:
       header: false
     link: https://orcid.org/0000-0002-4964-1162
     icon_pack: ai
     icon: orcid
+    label: orcid
 
   - display:
       header: false
