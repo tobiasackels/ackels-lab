@@ -39,6 +39,27 @@
   border-radius: 4px;
 }
 
+/* ── Lab group photos grid ── */
+.lab-photos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  max-width: 800px;
+  margin: 0 auto 2rem;
+}
+.lab-photos figure {
+  margin: 0 !important;
+}
+.lab-photos .w-100 {
+  width: 100% !important;
+}
+.lab-photos figure img {
+  width: 100% !important;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
 /* ── Publications page ── */
 
 .pub-year {

@@ -31,45 +31,14 @@ design:
 
 ---
 
-<table style='width: 70%' border='0' align='center'>
-<tr>
+<div class="lab-photos">
 
-<td style='width:15%;'>
-{{< figure src="lab_nov2024.jpg">}}
-</td>
+{{< figure src="lab_nov2024.jpg" >}}
 
-<td style='width:12%;'>
-{{< figure src="lab_aug2024.jpg">}}
-<div style="text-align:center">
-</td>
-</tr>
+{{< figure src="lab_aug2024.jpg" >}}
 
-<tr>
-<td style='width:15%;'>
-{{< figure src="lab_xmas2024.jpg">}}
-</td>
+{{< figure src="lab_xmas2024.jpg" >}}
 
-<td style='width:12%;'>
-{{< figure src="lab_karneval2025.jpg">}}
-<div style="text-align:center">
-</td>
-</tr>
+{{< figure src="lab_karneval2025.jpg" >}}
 
-</table>
-
-<!-- <table style='width: 50%' border='0'>
-<tr>
- <td>
-<td style='width:100%;'>
-<p style="text-align: left">
-{{< figure src="lab_nov2024.jpg">}}
-</p>
-</td>
-
-<p style="text-align: right">
-{{< figure src="lab_aug2024.jpg">}}
-</p>
-</td>
-
-</tr>
-</table> -->
+</div>
