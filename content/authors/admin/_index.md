@@ -67,9 +67,9 @@ highlight_name: false
 ---
 
 <p style='text-align: justify;'>
-Tobias was born in Germany and has just started to set up his laboratory as a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) as part of the University of Bonn Medical Center. He was awarded an ERC Starting Grant for his project “TempCOdE: Temporally complex odor information encoding”. 
+Tobias Ackels is a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) at the University Hospital Bonn. He leads the Ackels Lab, which investigates how the mammalian brain encodes and processes temporally complex sensory information. His research is supported by an ERC Starting Grant for the project \u201cTempCOdE: Temporally Complex Odor Information Encoding,\u201d as well as funding from the German Research Foundation (DFG) and the International Max Planck Research School for Brain and Behavior (IMPRS-BB) in Bonn.
 <p style='text-align: justify;'>
-Tobias did his postdoc at the Francis Crick Institute in London. He received his Diploma in Biology from RWTH Aachen University, where he also completed his PhD studies in 2015 in the Department of Chemosensation. His doctoral research mainly focused on signalling mechanisms in the olfactory system. Supported by a postdoctoral fellowship from the DFG, he moved to the laboratory of Prof. Andreas Schaefer at the Francis Crick Institute, invigorating his interest in the investigation of how natural sensory stimuli are perceived and processed in the mammalian brain. 
+Tobias received his Diploma in Biology from RWTH Aachen University, where he also completed his PhD in 2015 in the Department of Chemosensation. His doctoral research focused on signaling mechanisms in the olfactory system. He then joined the laboratory of Prof. Andreas Schaefer at the Francis Crick Institute in London as a postdoctoral fellow, supported by a fellowship from the German Research Foundation (DFG). There, he deepened his interest in understanding how natural sensory stimuli are represented and processed in the mammalian brain. 
 <p style='text-align: justify;'>
-His laboratory investigates these mechanisms on the cellular and network level using physiological and behavioral techniques.  
+The Ackels Lab combines physiological, imaging, and behavioral approaches to study neural coding at cellular and network levels, with a particular focus on how temporal stimulus structure shapes perception and behavior.  
 <p>
