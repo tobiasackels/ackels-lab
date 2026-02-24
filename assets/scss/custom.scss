@@ -2,6 +2,14 @@
     list-style-type: none;
   }
 
+/* ── Footer matches header background ── */
+.dark .page-footer {
+  background: #212529;
+}
+.page-footer {
+  background: #fff;
+}
+
 /* ── Bluesky icon: FA 6.0 bundled fonts lack this glyph, so render via SVG mask ── */
 .fa-bluesky::before {
   content: '' !important;           /* clear the missing glyph */
