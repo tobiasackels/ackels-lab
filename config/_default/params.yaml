@@ -44,7 +44,7 @@ header:
 footer:
   copyright:
     # notice: '© {year} Tobias Ackels. This work is licensed under {license}'
-    notice: '© {year} by Tobias Ackels.'
+    notice: '© {year} by Tobias Ackels'
     license:
       enable: false
       allow_derivatives: false
