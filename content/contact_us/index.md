@@ -34,7 +34,7 @@ Venusberg-Campus 1
 53127 Bonn, Germany
 
 <i class="fas fa-phone"></i> &ensp; +49 228 287 62205  
-<i class="fas fa-envelope"></i> &ensp; [ackelsgroup@ieecr-bonn.de](mailto:ackelsgroup@ieecr-bonn.de)
+<i class="fas fa-envelope"></i> &ensp; [tobias.ackels@ukbonn.de](mailto:tobias.ackels@ukbonn.de)
 
 </div>
 

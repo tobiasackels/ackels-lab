@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: ackelsgroup@ieecr-bonn.de
+  email: tobias.ackels@ukbonn.de
   phone: ""
   address:
   # directions: 
