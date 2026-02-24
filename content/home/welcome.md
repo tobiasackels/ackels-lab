@@ -152,6 +152,9 @@ Drumming
 
 <br>
 
+---
+<br>
+
 <!-- Support section -->
 <h2 style="text-align: center; margin-bottom: 1.5rem;">Support</h2>
 
