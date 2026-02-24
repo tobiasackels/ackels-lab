@@ -1,7 +1,7 @@
 ---
 title: Tobias Ackels
 role: Principal Investigator
-avatar_filename: photo_tobias.jpg
+avatar_filename: photo_tobias3.jpg
 bio: ""
 
 interests:
