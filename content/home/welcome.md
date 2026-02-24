@@ -76,20 +76,17 @@ For further reading, please take a look at: [Ackels <em>et al.</em>, 2021](https
 <h1 style="text-align: center;">The PI</h1>
 <br>
 
-<table style='width: 100%' border='0'>
-<tr>
+<div class="pi-section">
 
-<td style='width:30%;'>
+<div class="pi-photo">
 {{< figure src="photo_tobias3.jpg">}}  
-<div style="text-align:center">
 
 ## Prof. Dr. Tobias Ackels    
 University of Bonn, IEECR  
 
 </div>
-</td>
 
-<td style='width:70%;'>
+<div class="pi-bio">
 <font size="3">
 Tobias Ackels is a group leader at the Institute for Experimental Epileptology and Cognition Research (IEECR) at the University Hospital Bonn. His lab investigates how the mammalian brain encodes and processes temporally complex sensory information. His research is supported by an ERC Starting Grant for the project "TempCOdE: Temporally Complex Odour Information Encoding", as well as funding from the German Research Foundation (DFG) and the International Max Planck Research School for Brain and Behavior (IMPRS-BB) in Bonn.  </font>
 <p>
@@ -100,10 +97,10 @@ Tobias received his Diploma in Biology from RWTH Aachen University, where he als
 
 <font size="3">
 The Ackels Lab combines physiological, imaging, and behavioural approaches to study neural coding at cellular and network levels, with a particular focus on how temporal stimulus structure shapes perception and behaviour.  </font>
-</tr>
+</div>
 
-<table>
-<tr>
+</div>
+
 <div style="text-align: center;">
   <a href="https://scholar.google.co.uk/citations?hl=en&user=Wni3Z2gAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
     <i class="ai ai-google-scholar ai-2x"></i>
@@ -129,12 +126,6 @@ The Ackels Lab combines physiological, imaging, and behavioural approaches to st
     <i class="fab fa-linkedin fa-2x"></i>
   </a>
 </div>
-
-</div>
-
-
-</tr>
-</table>
 
 <!-- <td style='width:30%;padding:0px 0px 30px 0px'>
 <font size="5"><strong>Interests</strong></font><br>

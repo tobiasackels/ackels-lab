@@ -2,6 +2,38 @@
     list-style-type: none;
   }
 
+/* ── PI section responsive layout ── */
+.pi-section {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+.pi-photo {
+  flex: 0 0 250px;
+  text-align: center;
+}
+.pi-photo .w-100 {
+  width: 100% !important;
+}
+.pi-photo img {
+  border-radius: 6px;
+}
+.pi-bio {
+  flex: 1;
+  text-align: justify;
+}
+@media (max-width: 768px) {
+  .pi-section {
+    flex-direction: column;
+    align-items: center;
+  }
+  .pi-photo {
+    flex: 0 0 auto;
+    width: 60%;
+    max-width: 280px;
+  }
+}
+
 /* ── Footer matches header background ── */
 .dark .page-footer {
   background: #212529;
