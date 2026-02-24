@@ -30,7 +30,7 @@ social:
   - display:
       header: false
     link: https://bsky.app/profile/tobiasackels.bsky.social
-    icon_pack: custom
+    icon_pack: fab
     icon: bluesky
     label: Bluesky
 

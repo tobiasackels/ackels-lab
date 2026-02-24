@@ -3,8 +3,8 @@
   }
 
 /* ── Custom Bluesky icon (not in FA5/Academicons) ── */
-i.custom-bluesky::before {
-  content: '';
+i.fa-bluesky::before {
+  content: '' !important;
   display: inline-block;
   width: 1em;
   height: 1em;
