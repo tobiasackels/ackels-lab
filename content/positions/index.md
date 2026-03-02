@@ -47,10 +47,10 @@ PhD projects are available to motivated candidates to help us investigate how te
 *  PhD project: <a href="https://karriereamukb.de/offer/phd-candidate-m-f-d-institute-of-ex/4a45919e-ab5e-4239-ac41-0ac95ee8052c" target="_blank">Representation and processing of temporally complex odours</a> [[PDF]](https://ackelslab.com/uploads/jobs/PhD_EPI_Ackels_317_2023e.pdf)
 <!-- *  PhD project Behaviour:   <a href="/uploads/jobs/PhD_advert_behaviour_Ackels_.pdf" target="_blank">Olfactory navigation using dynamic odour plumes</a>   -->
 
-### POSTDOCTORAL RESEARCHER
+<!-- ### POSTDOCTORAL RESEARCHER
 We are interested in recruitung a postdoctoral researcher to drive a project at the frontier of sensory neuroscience and behaviour in our lab. Please get in touch if you are interested in joining the lab! <br>
 <b>Job advert:</b> [[PDF]](https://ackelslab.com/uploads/jobs/Advert_Postdoc2026_ackels.pdf) <br>
-<b>Application deadline:</b> 28.02.2026 
+<b>Application deadline:</b> 28.02.2026  -->
 
 <!-- <br> -->
 <!-- 
