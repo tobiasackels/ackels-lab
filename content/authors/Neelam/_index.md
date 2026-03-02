@@ -11,9 +11,9 @@ interests: []
 social:
   - display:
       header: false
-    link: Email
-    icon_pack: ai
-    icon: Email
+    link: "mailto:"
+    icon_pack: fas
+    icon: envelope
 email: ""
 user_groups:
   - Alumni

@@ -96,6 +96,27 @@
   border-radius: 4px;
 }
 
+/* ── People widget social icons ── */
+.people-widget .portrait-title .social-links {
+  margin-top: 0.25rem;
+  margin-bottom: 0.15rem;
+}
+.people-widget .portrait-title .social-links a {
+  font-size: 1.1rem;
+  margin: 0 0.2rem;
+  color: rgba(0,0,0,0.55);
+  transition: color 0.2s ease;
+}
+.people-widget .portrait-title .social-links a:hover {
+  color: var(--menu-primary, #1565c0);
+}
+.dark .people-widget .portrait-title .social-links a {
+  color: rgba(255,255,255,0.6);
+}
+.dark .people-widget .portrait-title .social-links a:hover {
+  color: #90caf9;
+}
+
 /* ── Lab group photos grid ── */
 .lab-photos {
   display: grid;
