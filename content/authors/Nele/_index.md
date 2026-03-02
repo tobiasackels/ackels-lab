@@ -11,10 +11,10 @@ interests: []
 social:
   - display:
       header: false
-    link: "mailto:"
+    link: "mailto:nele.neumann@ukbonn.de"
     icon_pack: fas
     icon: envelope
-email: ""
+email: "nele.neumann@ukbonn.de"
 user_groups:
   - Team
 ---

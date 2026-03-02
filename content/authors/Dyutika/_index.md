@@ -11,10 +11,10 @@ interests: []
 social:
   - display:
       header: false
-    link: "mailto:"
+    link: "mailto:dyutika.banerjee@ukbonn.de"
     icon_pack: fas
     icon: envelope
-email: ""
+email: "dyutika.banerjee@ukbonn.de"
 user_groups:
   - Team
 ---

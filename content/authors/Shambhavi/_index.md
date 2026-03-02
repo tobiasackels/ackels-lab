@@ -11,10 +11,10 @@ interests: []
 social:
   - display:
       header: false
-    link: "mailto:"
+    link: "mailto:shambhavi.phadnis@uni-bonn.de"
     icon_pack: fas
     icon: envelope
-email: ""
+email: "shambhavi.phadnis@uni-bonn.de"
 user_groups:
   - Team
 ---

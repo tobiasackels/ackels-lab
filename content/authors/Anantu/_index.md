@@ -11,10 +11,10 @@ interests: []
 social:
   - display:
       header: false
-    link: "mailto:"
+    link: "mailto:anantus@uni-bonn.de"
     icon_pack: fas
     icon: envelope
-email: ""
+email: "anantus@uni-bonn.de"
 user_groups:
   - Team
 ---
