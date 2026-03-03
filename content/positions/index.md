@@ -34,18 +34,18 @@ Our lab at the University Hospital Bonn investigates how temporally complex sens
 We offer a focused, interactive research environment with distinct advantages:
 
 <b>Close mentorship and scientific exchange</b><br>
-You will work directly with the PI and benefit from regular 1-on-1 discussions, strategic career guidance, and hands-on conceptual input.
+Direct interaction with the PI, regular 1-on-1 discussions, and active career guidance.
 
 <b>High scientific visibility and ownership</b><br>
-As part of a focused and interactive team, you will play an active role in shaping the direction of the lab and have the opportunity to develop and lead your own research project.
+The opportunity to shape projects and develop your own research within a focused, interactive team.
 
 <b>Access to cutting-edge methodologies</b><br>
-Our work integrates multi-photon imaging, electrophysiology, optogenetics, quantitative behaviour, miniscope imaging, and computational analysis — enabling multi-level investigations from single neurons to behaviour.
+Multi-photon imaging, electrophysiology, optogenetics, quantitative behaviour, miniscope imaging, and computational analysis — spanning single neurons to behaviour.
 
 <b>Strong local and international network</b><br>
-Located in Bonn, you will be embedded in a vibrant scientific community with extensive collaboration opportunities across neuroscience, medicine, and computational biology.
+Embedded in Bonn’s vibrant neuroscience community with extensive collaborative opportunities.
 
-We are looking for motivated and curious scientists who enjoy thinking deeply about neural mechanisms and working collaboratively to solve challenging problems.
+We are looking for motivated and curious scientists who enjoy thinking deeply about neural mechanisms and tackling challenging questions collaboratively.
 
 
 <!-- There are several benefits of joining our lab such as:
