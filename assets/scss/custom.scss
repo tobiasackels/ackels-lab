@@ -97,6 +97,9 @@
 }
 
 /* ── People widget: tighten name / role / icon spacing ── */
+.people-widget .people-person {
+  margin-bottom: 2rem;
+}
 .people-widget .portrait-title {
   margin-top: 0.4rem;
 }
