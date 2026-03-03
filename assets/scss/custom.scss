@@ -96,10 +96,21 @@
   border-radius: 4px;
 }
 
+/* ── People widget: tighten name / role / icon spacing ── */
+.people-widget .portrait-title {
+  margin-top: 0.4rem;
+}
+.people-widget .portrait-title h2 {
+  margin-bottom: 0.1rem;
+}
+.people-widget .portrait-title h3 {
+  margin-bottom: 0.1rem;
+}
+
 /* ── People widget social icons ── */
 .people-widget .portrait-title .social-links {
-  margin-top: 0.25rem;
-  margin-bottom: 0.15rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0;
 }
 .people-widget .portrait-title .social-links a {
   font-size: 1.1rem;
