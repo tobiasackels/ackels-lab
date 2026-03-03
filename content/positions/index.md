@@ -27,15 +27,33 @@ design:
 
 <br>
 
-Are you curious about how the brain extracts relevant bits from the constant flow of sensory information we are under? 
-We are a small, new lab located in the midst of the exceptional scientific community in beautiful Bonn.  
+Are you curious about how the brain extracts meaningful information from the continuous stream of sensory input that surrounds us?
 
-There are several benefits of joining our newly founded lab such as:
+Our lab at the University Hospital Bonn investigates how temporally complex sensory signals are encoded and used to guide behaviour. We combine state-of-the-art physiological approaches with quantitative behavioural paradigms to understand neural computation in naturalistic conditions.
+
+We offer a focused, interactive research environment with distinct advantages:
+
+<b>Close mentorship and scientific exchange</b>
+You will work directly with the PI and benefit from regular 1-on-1 discussions, strategic career guidance, and hands-on conceptual input.
+
+<b>High scientific visibility and ownership</b>
+As part of a focused and interactive team, you will play an active role in shaping the direction of the lab and have the opportunity to develop and lead your own research project.
+
+<b>Access to cutting-edge methodologies</b>
+Our work integrates multi-photon imaging, electrophysiology, optogenetics, quantitative behaviour, miniscope imaging, and computational analysis — enabling multi-level investigations from single neurons to behaviour.
+
+<b>Strong local and international network</b>
+Located in Bonn, you will be embedded in a vibrant scientific community with extensive collaboration opportunities across neuroscience, medicine, and computational biology.
+
+We are looking for motivated and curious scientists who enjoy thinking deeply about neural mechanisms and working collaboratively to solve challenging problems.
+
+
+<!-- There are several benefits of joining our lab such as:
 *  You will be working as part of a small team of highly motivated and enthusiastic people in a highly collaborative environment  
-*  You will have more 1-on-1 time with the PI  
+*  You will have 1-on-1 time with the PI  
 *  You will have privileged access to a wide array of cutting-edge technologies  
 (multi-photon imaging, electrophysiology, optogenetics, behaviour, miniscope imaging etc.)
-*  You will have the opportunity to develop your own research project  
+*  You will have the opportunity to develop your own research project   -->
 
 <!-- We are actively looking for PhD a student and a Postdoc to join the team. All positions are fully funded and supported by our third party funds, including the ERC.   -->
 <!-- <br>
