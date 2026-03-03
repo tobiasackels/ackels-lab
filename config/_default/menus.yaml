@@ -13,11 +13,11 @@ main:
   - name: Publications
     url: publications
     weight: 30
-  - name: Open positions
-    url: positions
-    weight: 40    
   - name: People
     url: people
+    weight: 40    
+  - name: Open positions
+    url: positions
     weight: 50    
   # - name: News
   #   url: post
