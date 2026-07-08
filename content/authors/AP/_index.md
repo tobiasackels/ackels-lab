@@ -16,5 +16,5 @@ social:
     icon: envelope
 email: "anantha@uni-bonn.de"
 user_groups:
-  - Team
+  - Alumni
 ---
