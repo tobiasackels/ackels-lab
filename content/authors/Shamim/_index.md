@@ -11,7 +11,7 @@ interests: []
 social:
   - display:
       header: false
-    link: "shamim.salavati@smail.bcw.h-brs.de"
+    link: "mailto:shamim.salavati@smail.bcw.h-brs.de"
     icon_pack: fas
     icon: envelope
 email: "shamim.salavati@smail.bcw.h-brs.de"
