@@ -1,0 +1,11 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "conda": true,
+        "Get-Command": true,
+        "py": true,
+        "&": true,
+        "Get-Item": true,
+        "Test-Path": true,
+        "Set-Content": true
+    }
+}

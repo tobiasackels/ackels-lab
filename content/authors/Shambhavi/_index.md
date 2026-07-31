@@ -2,19 +2,19 @@
 organizations: []
 superuser: false
 authors:
-  - Shambhavi
-title: Shambhavi Phadnis
-role: "PhD student"
-avatar_filename: photo_shambhavi.jpg
+  - Shamim
+title: Shamim Salavati
+role: "MSc student"
+avatar_filename: photo_shamim.jpg
 bio: ""
 interests: []
 social:
   - display:
       header: false
-    link: "mailto:shambhavi.phadnis@uni-bonn.de"
+    link: "shamim.salavati@smail.bcw.h-brs.de"
     icon_pack: fas
     icon: envelope
-email: "shambhavi.phadnis@uni-bonn.de"
+email: "shamim.salavati@smail.bcw.h-brs.de"
 user_groups:
   - Team
 ---
